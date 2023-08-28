@@ -2,7 +2,6 @@ from glob import glob
 import random
 from sys import maxsize
 
-
 pieceScore = {
     "K": 0,
     "Q": 9,
