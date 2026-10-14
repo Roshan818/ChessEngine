@@ -8,7 +8,6 @@ import os
 import pygame
 import ChessEngine
 import ChessAI
-from search import Searcher
 
 IMAGE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "images")
 
@@ -37,12 +36,11 @@ def load_images():
         # We can access image by saying IMAGES['wp']
 
 
-def main(playerOne=True, playerTwo=False, thinkSeconds=2.0):
+def main(playerOne=True, playerTwo=False):
     """
     main driver of code.
     will handle input and update the graphics
     playerOne / playerTwo: True if a human plays white / black
-    thinkSeconds: how long the engine thinks per move
     """
     pygame.init()
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
@@ -128,9 +126,7 @@ def main(playerOne=True, playerTwo=False, thinkSeconds=2.0):
             # AIMove = ChessAI.findBestMoveMinMaxIter(gs, validMoves)
             # AIMove = ChessAI.findBestMoveMinMax(gs, validMoves)
             # AIMove = ChessAI.findBestMoveNegaMax(gs, validMoves)
-            # AIMove = ChessAI.findBestMoveNegaMaxAlphaBeta(gs, validMoves)
-            # The same search the UCI engine uses, with a time limit per move
-            AIMove = Searcher().search(gs, movetime=thinkSeconds).move
+            AIMove = ChessAI.findBestMoveNegaMaxAlphaBeta(gs, validMoves)
             pygame.event.pump()  # keep the window responsive after a long search
             if AIMove == None:
                 AIMove = ChessAI.findRandomMove(validMoves)
@@ -300,8 +296,5 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Play chess against the engine")
     parser.add_argument("--human", choices=["white", "black", "both", "none"], default="white",
                         help="which side(s) a human plays (default: white)")
-    parser.add_argument("--think", type=float, default=2.0,
-                        help="seconds the engine thinks per move (default: 2)")
     args = parser.parse_args()
-    main(playerOne=args.human in ("white", "both"), playerTwo=args.human in ("black", "both"),
-         thinkSeconds=args.think)
+    main(playerOne=args.human in ("white", "both"), playerTwo=args.human in ("black", "both"))
