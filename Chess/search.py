@@ -10,7 +10,7 @@ three changes needed to play under a clock:
 """
 import time
 
-from evaluation import PIECE_VALUES, MaterialEvaluator
+from evaluation import PIECE_VALUES, PieceSquareEvaluator
 
 MATE = 100000  # centipawns; a mate in n plies scores MATE - n
 INFINITY = 10 ** 9
@@ -36,7 +36,7 @@ EXACT, LOWER, UPPER = 0, 1, 2  # what a stored score means
 
 class Searcher:
     def __init__(self, evaluator=None):
-        self.evaluator = evaluator or MaterialEvaluator()
+        self.evaluator = evaluator or PieceSquareEvaluator()
         self.nodes = 0
         self.stopRequested = False
         self.deadline = None
