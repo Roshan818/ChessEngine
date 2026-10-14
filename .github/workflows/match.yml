@@ -1,0 +1,43 @@
+name: match vs stockfish
+
+# Run from the Actions tab: "match vs stockfish" -> "Run workflow".
+# Plays this engine against Stockfish at a fixed rating and saves the games.
+
+on:
+  workflow_dispatch:
+    inputs:
+      elo:
+        description: "Stockfish rating (1320 or more)"
+        default: "1320"
+      games:
+        description: "Number of games (even)"
+        default: "100"
+      tc:
+        description: "Time control in seconds, base+increment"
+        default: "20+0.2"
+
+jobs:
+  match:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install chess
+      - name: Download Stockfish 17.1
+        run: |
+          curl -sSL -o sf.tar https://github.com/official-stockfish/Stockfish/releases/download/sf_17.1/stockfish-ubuntu-x86-64-avx2.tar
+          tar xf sf.tar
+          echo "STOCKFISH=$PWD/stockfish/stockfish-ubuntu-x86-64-avx2" >> "$GITHUB_ENV"
+      - name: Play the match
+        run: |
+          mkdir -p results
+          python tools/match.py --elo ${{ inputs.elo }} --games ${{ inputs.games }} --tc ${{ inputs.tc }} \
+            --concurrency 2 --pgn results/match.pgn | tee results/summary.txt
+          tail -4 results/summary.txt >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: match-results
+          path: results/
