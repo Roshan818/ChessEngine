@@ -1,0 +1,92 @@
+# lichess-bot configuration for RoshanChess.
+# The account token is NOT stored here: set it in the LICHESS_BOT_TOKEN environment variable.
+# Full list of options: https://github.com/lichess-bot-devs/lichess-bot/wiki/Configure-lichess-bot
+
+url: "https://lichess.org/"
+
+engine:
+  dir: "ENGINE_DIR"              # replaced by setup.sh with this folder's absolute path
+  name: "run_engine.sh"
+  protocol: "uci"
+  ponder: false                  # the engine does not think on the opponent's time
+  polyglot:
+    enabled: false
+  draw_or_resign:
+    resign_enabled: false
+    offer_draw_enabled: true
+    offer_draw_score: 0
+    offer_draw_moves: 10
+    offer_draw_pieces: 10
+  online_moves:
+    chessdb_book:
+      enabled: false
+    lichess_cloud_analysis:
+      enabled: false
+    lichess_opening_explorer:
+      enabled: false
+    online_egtb:
+      enabled: false             # no outside help: every move is the engine's own
+  lichess_bot_tbs:
+    syzygy:
+      enabled: false
+    gaviota:
+      enabled: false
+  uci_options: {}
+  silence_stderr: false
+
+abort_time: 30
+fake_think_time: false
+rate_limiting_delay: 0
+move_overhead: 1500              # milliseconds kept back for network lag
+max_takebacks_accepted: 0
+quit_after_all_games_finish: true
+
+correspondence:
+  move_time: 60
+  checkin_period: 300
+  disconnect_time: 150
+  ponder: false
+
+challenge:
+  concurrency: 1                 # one game at a time: the engine uses one CPU core at full speed
+  sort_by: "best"
+  accept_bot: true
+  only_bot: false
+  max_increment: 20
+  min_increment: 0
+  max_base: 1800
+  min_base: 180                  # 3 minutes or more; a Python engine is too slow for bullet
+  variants:
+    - standard
+  time_controls:
+    - blitz
+    - rapid
+    - classical
+  modes:
+    - casual
+    - rated
+
+greeting:
+  hello: "Hi, I'm {me}, a chess engine written from scratch in Python. Good luck!"
+  goodbye: "Good game!"
+  hello_spectators: "{me} is a chess engine written from scratch in Python: github.com/Roshan818/ChessEngine"
+  goodbye_spectators: "Thanks for watching!"
+
+pgn_directory: "game_records"    # every game is saved here (useful later for training)
+pgn_file_grouping: "game"
+
+matchmaking:
+  allow_matchmaking: true        # challenge other bots when idle, so the bot keeps getting rated games
+  allow_during_games: false
+  challenge_variant: "standard"
+  challenge_timeout: 20          # minutes idle before sending a challenge (keeps it well under 100 bot games a day)
+  challenge_initial_time:
+    - 180
+    - 300
+  challenge_increment:
+    - 2
+    - 3
+  opponent_rating_difference: 300
+  rating_preference: "none"
+  challenge_mode: "rated"
+  challenge_filter: coarse

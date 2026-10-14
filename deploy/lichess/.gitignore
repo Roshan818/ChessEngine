@@ -1,0 +1,4 @@
+lichess-bot/
+venv/
+token.env
+game_records/

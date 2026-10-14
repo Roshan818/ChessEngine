@@ -1,0 +1,18 @@
+# systemd service: keeps the bot running on a Linux server and restarts it if it stops.
+# Install (replace /home/USER/ChessEngine with the real path and USER with your username):
+#   sudo cp roshanchess-bot.service /etc/systemd/system/
+#   sudo systemctl enable --now roshanchess-bot
+[Unit]
+Description=RoshanChess Lichess bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=USER
+WorkingDirectory=/home/USER/ChessEngine/deploy/lichess
+ExecStart=/home/USER/ChessEngine/deploy/lichess/start.sh
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target
