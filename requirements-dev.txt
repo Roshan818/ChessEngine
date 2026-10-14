@@ -1,0 +1,3 @@
+-r requirements.txt
+chess>=1.10
+pytest>=8
