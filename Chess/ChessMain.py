@@ -2,10 +2,14 @@
 This is the main driver file. Responsible for handling user input and displaying game state.
 """
 
-from lib2to3 import pygram
+import argparse
+import os
+
 import pygame
 import ChessEngine
 import ChessAI
+
+IMAGE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "images")
 
 WIDTH = HEIGHT = 512
 DIMENSION = 8  # Dimension of chess board (8x8)
@@ -26,16 +30,17 @@ def load_images():
 
     for piece in pieces:
         IMAGES[piece] = pygame.transform.scale(
-            pygame.image.load("images/" + piece + ".png"),
+            pygame.image.load(os.path.join(IMAGE_DIR, piece + ".png")),
             (SQ_SIZE, SQ_SIZE)
         )
         # We can access image by saying IMAGES['wp']
 
 
-def main():
+def main(playerOne=True, playerTwo=False):
     """
-    main driver of code. 
+    main driver of code.
     will handle input and update the graphics
+    playerOne / playerTwo: True if a human plays white / black
     """
     pygame.init()
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
@@ -55,9 +60,6 @@ def main():
     # Keep track of player clicks (two tuples: [(6, 4), (4, 4)])
 
     gameOver = False
-
-    playerOne = False  # if Human is playing white then true
-    playerTwo = True  # if Human is playing black then true
 
     while running:
         humanTurn = (gs.whiteToMove and playerOne) or\
@@ -125,6 +127,7 @@ def main():
             # AIMove = ChessAI.findBestMoveMinMax(gs, validMoves)
             # AIMove = ChessAI.findBestMoveNegaMax(gs, validMoves)
             AIMove = ChessAI.findBestMoveNegaMaxAlphaBeta(gs, validMoves)
+            pygame.event.pump()  # keep the window responsive after a long search
             if AIMove == None:
                 AIMove = ChessAI.findRandomMove(validMoves)
             gs.makeMove(AIMove)
@@ -144,10 +147,13 @@ def main():
             if gs.whiteToMove:
                 drawText(screen, "Black wins by checkmate")
             else:
-                drawText(screen, "WHite wins by checkmate")
+                drawText(screen, "White wins by checkmate")
         elif gs.stalemate:
             gameOver = True
             drawText(screen, "Stalemate")
+        elif gs.draw:
+            gameOver = True
+            drawText(screen, "Draw by " + gs.drawReason)
 
         clock.tick(MAX_FPS)
         pygame.display.flip()
@@ -287,4 +293,8 @@ def drawText(screen, text):
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Play chess against the engine")
+    parser.add_argument("--human", choices=["white", "black", "both", "none"], default="white",
+                        help="which side(s) a human plays (default: white)")
+    args = parser.parse_args()
+    main(playerOne=args.human in ("white", "both"), playerTwo=args.human in ("black", "both"))

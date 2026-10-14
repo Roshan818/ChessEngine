@@ -1,6 +1,4 @@
-from glob import glob
 import random
-from sys import maxsize
 
 pieceScore = {
     "K": 0,
@@ -125,7 +123,7 @@ def scoreBoard(gs):
             return -CHECKMATE
         else:
             return CHECKMATE
-    elif gs.stalemate:
+    elif gs.stalemate or gs.draw:
         return STALEMATE
 
     board = gs.board
@@ -145,7 +143,6 @@ def findBestMoveNegaMax(gs, validMoves):
     counter = 0
     nextMove = None
     findMoveNegaMax(gs, validMoves, DEPTH, 1 if gs.whiteToMove else -1)
-    print(counter)
     return nextMove
 
 
@@ -183,7 +180,6 @@ def findBestMoveNegaMaxAlphaBeta(gs, validMoves):
         -CHECKMATE, CHECKMATE,
         1 if gs.whiteToMove else -1
     )
-    print(counter)
     return nextMove
 
 
