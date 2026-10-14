@@ -30,6 +30,8 @@ class SearchResult:
 
 
 MAX_PLY = 128
+TT_MAX_ENTRIES = 300_000  # cleared when full; keeps memory to roughly 100 MB
+EXACT, LOWER, UPPER = 0, 1, 2  # what a stored score means
 
 
 class Searcher:
@@ -40,6 +42,9 @@ class Searcher:
         self.deadline = None
         self.killers = [[None, None] for _ in range(MAX_PLY)]
         self.history = {}
+        # Transposition table: position key -> (depth, score, bound, best move id).
+        # Kept between moves, since the next position's tree overlaps this one.
+        self.table = {}
 
     def stop(self):
         # Safe to call from another thread (UCI "stop")
@@ -105,7 +110,9 @@ class Searcher:
     #   3. "killer" quiet moves that caused a cutoff at the same depth elsewhere
     #   4. other quiet moves, by how often they have caused cutoffs (history)
 
-    def _orderScore(self, move, ply):
+    def _orderScore(self, move, ply, ttMove=None):
+        if move.moveID == ttMove:
+            return 2000000
         if move.pieceCaptured != '--':
             return 1000000 + 10 * PIECE_VALUES[move.pieceCaptured[1]] - PIECE_VALUES[move.pieceMoved[1]]
         if move.isPawnPromotion:
@@ -117,8 +124,8 @@ class Searcher:
                 return 790000
         return self.history.get(move.moveID, 0)
 
-    def _orderMoves(self, moves, ply):
-        moves.sort(key=lambda m: self._orderScore(m, ply), reverse=True)
+    def _orderMoves(self, moves, ply, ttMove=None):
+        moves.sort(key=lambda m: self._orderScore(m, ply, ttMove), reverse=True)
 
     def _rememberCutoff(self, move, depth, ply):
         if move.pieceCaptured != '--' or ply >= MAX_PLY:
@@ -138,6 +145,22 @@ class Searcher:
 
     def _negamax(self, gs, depth, alpha, beta, ply):
         self._checkTime()
+        originalAlpha = alpha
+
+        # Have we already searched this position at least this deep?
+        key = gs.positionLog[-1]
+        entry = self.table.get(key)
+        ttMove = None
+        if entry is not None:
+            entryDepth, entryScore, bound, ttMove = entry
+            if entryDepth >= depth and not gs.isRepetition(2):
+                entryScore = self._fromTable(entryScore, ply)
+                if bound == EXACT:
+                    return entryScore
+                if bound == LOWER and entryScore >= beta:
+                    return entryScore
+                if bound == UPPER and entryScore <= alpha:
+                    return entryScore
 
         moves = gs.getValidMoves()
         if gs.checkmate:
@@ -147,8 +170,8 @@ class Searcher:
         if depth == 0:
             return self._quiescence(gs, alpha, beta, ply, moves)
 
-        self._orderMoves(moves, ply)
-        best = -INFINITY
+        self._orderMoves(moves, ply, ttMove)
+        best, bestMove = -INFINITY, None
         for move in moves:
             gs.makeMove(move)
             try:
@@ -156,13 +179,44 @@ class Searcher:
             finally:
                 gs.undoMove()
             if score > best:
-                best = score
+                best, bestMove = score, move
             if best > alpha:
                 alpha = best
             if alpha >= beta:
                 self._rememberCutoff(move, depth, ply)
                 break
+
+        if best <= originalAlpha:
+            bound = UPPER
+        elif best >= beta:
+            bound = LOWER
+        else:
+            bound = EXACT
+        self._store(key, depth, best, bound, bestMove, ply)
         return best
+
+    # Mate scores are stored relative to the position, not the root, so they
+    # stay correct when the same position is reached at a different distance.
+    def _toTable(self, score, ply):
+        if score >= MATE - MAX_PLY:
+            return score + ply
+        if score <= -(MATE - MAX_PLY):
+            return score - ply
+        return score
+
+    def _fromTable(self, score, ply):
+        if score >= MATE - MAX_PLY:
+            return score - ply
+        if score <= -(MATE - MAX_PLY):
+            return score + ply
+        return score
+
+    def _store(self, key, depth, score, bound, move, ply):
+        if len(self.table) >= TT_MAX_ENTRIES:
+            self.table.clear()
+        old = self.table.get(key)
+        if old is None or depth >= old[0]:
+            self.table[key] = (depth, self._toTable(score, ply), bound, move.moveID if move else None)
 
     # ------------------------------------------------------------ quiescence search
     # At depth 0 the position may be in the middle of an exchange. Instead of
