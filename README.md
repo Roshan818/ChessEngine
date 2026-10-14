@@ -51,20 +51,31 @@ the best move from the last completed depth.
 
 **Measuring it.** To get an honest rating, the engine played 100 games against Stockfish
 limited to a rating of 1320, across 20 common openings with both colours. It scored 18.5%,
-which puts it at about **1060** on Stockfish's scale (95% range 970 to 1130). Details and
-all the games are in [`results/`](results/).
+which puts it at about **1060** on Stockfish's scale. Stockfish's analysis of those games
+showed the main weakness: about three big blunders per game, mostly tactics just past the
+search depth.
+
+**Making it stronger.** Each change was kept only after a 100-game match showed its effect:
+
+| Change | Score vs Stockfish 1320 | Rating |
+|---|---|---|
+| Starting point | 18.5% | ~1060 |
+| **Quiescence search**: at the depth limit, keep searching captures until the position is quiet, instead of judging it halfway through an exchange. **Move ordering**: search the most promising moves first, so alpha-beta can skip more. | 42.5% | ~1270 |
+| **Transposition table**: remember positions already searched. No measurable gain at this depth, kept for later. | 42.5% | ~1270 |
+| **Piece-square tables**: reward good squares (central knights, rooks on the seventh, a sheltered king in the middlegame and an active one in the endgame). | 83.5% | ~1600 |
+
+Against Stockfish set to 1600, the latest version scored 58.5%, which puts it at about
+**1650**. Details and every game are in [`results/`](results/).
 
 ## What's next
 
-1. **Measure every change.** Each improvement is checked against Stockfish before it is kept.
-2. **Make it stronger.** Each change is measured before it is kept:
-   keep searching captures past the depth limit (quiescence search), try the most promising
-   moves first, remember positions already searched, and teach the evaluation about piece
-   placement, king safety and pawn structure.
-3. **Deploy it.** A version you can play in the browser, and a Lichess bot account.
-4. **Let it learn.** The evaluation sits behind one small interface
+1. **Make it faster.** The engine searches about 7,000 positions a second, so in a few seconds
+   it only looks 3 to 4 moves ahead. A faster board representation means deeper search.
+2. **Deploy it.** A version you can play in the browser, and a Lichess bot account.
+3. **Let it learn.** The evaluation sits behind one small interface
    ([`Chess/evaluation.py`](Chess/evaluation.py)), so a learned evaluation can replace the
-   hand-written one. Once the bot is live, its games and self-play can be used to train it.
+   hand-written one. Once the bot is live, its games and self-play can be used to train it,
+   and every new version can be measured the same way against Stockfish.
 
 ## Play it
 

@@ -1,0 +1,1200 @@
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "1"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Na4 Bd6 5. Nc3 a6 6. d4 b5 7. d5 Na7 8. Bd3 b4 9. Ne2 Bb7 10. O-O Nc8 11. a3 bxa3 12. bxa3 Nce7 13. Bb2 Ng6 14. Rb1 Nf6 15. Nxe5 Bxd5 16. Nxg6 hxg6 17. exd5 Bxh2+ 18. Kh1 Rh6 19. Nc3 Rb8 20. Qe2+ Qe7 21. Qxe7+ Kxe7 22. Rfe1+ Kf8 23. Bxa6 Rb6 24. Bb5 Rxb5 25. Nxb5 Rh7 26. Bxf6 gxf6 27. Rbd1 Kg8 28. Re8+ Kg7 29. Ree1 c6 30. dxc6 Bg3+ 31. Kg1 Rh1+ 32. Kxh1 d5 33. fxg3 Kh7 34. c7 Kh6 35. Rxd5 g5 36. Kg1 g4 37. c8=Q Kh7 38. Qxg4 f5 39. Rxf5 Kh6 40. Rh5# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "2"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bd3 Nf6 5. O-O d5 6. e5 Ng4 7. c3 dxc3 8. Qa4 d4 9. Bb5 cxb2 10. Bxb2 Bd7 11. Nbd2 Bc5 12. Ne4 Bb6 13. Ba3 Ngxe5 14. Nxe5 Nxe5 15. Rae1 a6 16. Bxd7+ Qxd7 17. Nc5 Qxa4 18. Nxa4 f6 19. Nxb6 cxb6 20. f4 Rd8 21. Re4 Rd5 22. Rc1 Kf7 23. Rc7+ Rd7 24. Rxd7+ Nxd7 25. Re7+ Kg6 26. f5+ Kxf5 27. Rxd7 d3 28. Bb4 Re8 29. Kf1 Re4 30. Be1 Ra4 31. Bf2 Rxa2 32. Bxb6 Ra1+ 33. Kf2 Ra2+ 34. Ke1 Rxg2 35. h4 Rh2 36. h5 Rxh5 37. Rxb7 g5 38. Bd8 Rh2 39. Rd7 Ke4 40. Bxf6 g4 41. Bc3 Rc2 42. Re7+ Kd5 43. Bh8 h6 44. Re8 d2+ 45. Ke2 Kc4 46. Rc8+ Kb3 47. Rb8+ Kc4 48. Rg8 g3 49. Rxg3 h5 50. Rg8 h4 51. Kd1 Ra2 52. Rg4+ Kd3 53. Rg6 h3 54. Be5 Ke4 55. Bb8 Kf5 56. Rc6 Ke4 57. Rh6 h2 58. Rh4+ Kd3 59. Bxh2 Ra1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "3"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nf6 4. Nc3 cxd4 5. Bb5+ Nbd7 6. Qxd4 a6 7. Qa4 Qc7 8. Qc4 Qb6 9. Qa4 Rb8 10. Bc4 Qc6 11. Qxc6 b5 12. Bd3 Ng4 13. O-O b4 14. Nd5 e6 15. Nxb4 d5 16. Nxa6 Bxa6 17. Bxa6 Be7 18. exd5 Bc5 19. dxe6 O-O 20. exd7 Bb6 21. Bf4 Ba7 22. Bxb8 Ne5 23. Bxe5 Rd8 24. Bc7 Rb8 25. Bxb8 Bc5 26. Qc8+ Bf8 27. Qxf8+ Kxf8 28. d8=Q# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "4"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. a4 Nc6 4. Nc3 e5 5. Nd5 Nf6 6. d3 Nxd5 7. exd5 Nd4 8. a5 Be7 9. Nxd4 cxd4 10. c3 dxc3 11. d4 Qc7 12. Bb5+ Bd7 13. Bxd7+ Qxd7 14. h3 Qb5 15. dxe5 cxb2 16. Bxb2 Qxb2 17. Qa4+ Kf8 18. Kd1 dxe5 19. d6 Bxd6 20. Qa2 Qd4+ 21. Ke2 Qe4+ 22. Kd2 Qxg2 23. Raf1 Qg5+ 24. Kd3 Qf5+ 25. Kc4 Qe6+ 26. Kd3 Qxa2 27. Rc1 Qxf2 28. Rhf1 Qg3+ 29. Kc4 Rc8+ 30. Kb5 Qb3# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "5"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e6 2. d4 d5 3. exd5 Bd6 4. dxe6 fxe6 5. Nc3 Nc6 6. Nf3 Nge7 7. Nb5 a6 8. Nxd6+ Qxd6 9. Qd3 Bd7 10. Be3 Qb4+ 11. Qc3 Qxc3+ 12. bxc3 O-O-O 13. Bd3 Rhe8 14. Bxh7 e5 15. Nxe5 Nxe5 16. dxe5 g6 17. Bg5 Nd5 18. Bxd8 Rxe5+ 19. Kd2 Nb6 20. Bf6 Nc4+ 21. Kd3 Rd5+ 22. Kxc4 c6 23. Bd4 Rb5 24. Bxg6 Rb1 25. Rhxb1 b6 26. Rxb6 a5 27. Kc5 Be8 28. Bxe8 a4 29. Bxc6 Kc7 30. Bxa4 Kd8 31. Rb7 Kc8 32. Bc6 Kd8 33. Be5 Kc8 34. Rb8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "6"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e6 2. d4 d5 3. Bd3 Nf6 4. Nd2 dxe4 5. Nxe4 Nc6 6. Nxf6+ Qxf6 7. c3 Bd6 8. Qe2 O-O 9. h4 e5 10. Qh5 h6 11. d5 Ne7 12. Bg5 Bg4 13. Qxg4 hxg5 14. Bh7+ Kh8 15. hxg5 Qf4 16. Qh5 Bc5 17. Bc2+ Kg8 18. Qh8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "8"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c6 2. d4 d5 3. Nd2 Nf6 4. Bd3 dxe4 5. Bxe4 Qxd4 6. Ne2 Qd6 7. Bd3 Nbd7 8. Nc3 Ne5 9. O-O Nxd3 10. cxd3 Qxd3 11. Qa4 e5 12. Nc4 b5 13. Nxe5 Qxf1+ 14. Kxf1 bxa4 15. Bg5 Ba6+ 16. Ne2 Ne4 17. Rd1 Nxg5 18. b4 Bxb4 19. Rc1 c5 20. Rd1 Ne4 21. Rd5 Bxe2+ 22. Kg1 Be1 23. Rd7 Bxf2+ 24. Kh1 Bd4 25. Rxf7 Bxe5 26. Rf5 O-O-O 27. Rf7 Rd1+ 28. Rf1 Rxf1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "7"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 h6 5. Nf3 Bf5 6. Bd3 e6 7. Ng3 Bxd3 8. Qxd3 Nd7 9. Qb3 Qb6 10. Qxb6 axb6 11. Be3 b5 12. O-O Bd6 13. Ne4 Bb8 14. Nc5 Ra7 15. Nxd7 Kxd7 16. Ne5+ Ke7 17. d5 Ra4 18. Bc5+ Ke8 19. d6 Nf6 20. Rfe1 Rg8 21. a3 Ra8 22. Rad1 h5 23. d7+ Kd8 24. Nxf7+ Kc7 25. d8=Q+ Rxd8 26. Rxd8 Ne4 27. Rxe4 g5 28. Bd6+ Kb6 29. Bxb8 Ka6 30. Nxg5 b6 31. Nxe6 c5 32. Nc7+ Kb7 33. Nxa8 Ka6 34. Re6 c4 35. Rd7 c3 36. Ra7# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "10"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 e6 3. c5 Nc6 4. Nf3 Nf6 5. e3 Be7 6. Qc2 Nb4 7. Qa4+ Nc6 8. Bd3 O-O 9. Nbd2 Bd7 10. b4 Nxd4 11. Qa3 Nxf3+ 12. Nxf3 Ne4 13. Ne5 Bf6 14. Bb2 Re8 15. Bxe4 dxe4 16. O-O Bb5 17. Rfe1 Qd2 18. Bd4 Red8 19. Qa5 c6 20. Red1 Qc2 21. Rac1 Qe2 22. Qc7 Qh5 23. h3 Rab8 24. Nd7 Rdc8 25. Qf4 Ba4 26. Nxf6+ gxf6 27. Rd2 e5 28. Qxe4 exd4 29. Rxd4 f5 30. Qe7 Re8 31. Qc7 Bb5 32. a4 Bxa4 33. Qg3+ Qg6 34. Rc3 Qxg3 35. Rd7 Qh4 36. g3 Qxb4 37. Rxf7 Kxf7 38. Rc4 Qxc4 39. h4 Ke6 40. g4 fxg4 41. Kg2 Bd1 42. h5 Bf3+ 43. Kg1 Qe2 44. h6 Qe1+ 45. Kh2 Qxf2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "9"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1/2-1/2"]
+[TimeControl "20+0.2"]
+[Termination "threefold_repetition"]
+
+1. d4 d5 2. c4 e6 3. cxd5 Qxd5 4. Nc3 Bb4 5. e3 Nf6 6. Bd2 Qd8 7. a3 Be7 8. Nf3 b6 9. Bd3 Bb7 10. O-O O-O 11. e4 Ne8 12. Be3 Nd7 13. e5 c5 14. Qc2 Kh8 15. Bxh7 Bxf3 16. gxf3 cxd4 17. Bxd4 g6 18. Bxg6 Rg8 19. Bxb6 Qxb6 20. Na4 Qc7 21. Qe4 Qd8 22. Nc3 Rxg6+ 23. Kh1 Nb6 24. Rg1 Rxg1+ 25. Kxg1 Ng7 26. Rd1 Qg8 27. Qg4 Qh7 28. Ne4 Nh5 29. Ng5 f5 30. Nxh7 fxg4 31. fxg4 Kxh7 32. gxh5 a5 33. Rd3 Ra7 34. Re3 Bc5 35. Re1 Nd5 36. Rd1 Rg7+ 37. Kf1 Be7 38. Re1 Nf4 39. Re4 Nd3 40. Ra4 Nxb2 41. Rxa5 Bg5 42. Ra6 Rc7 43. Rxe6 Nc4 44. Re8 Kh6 45. Rh8+ Kg7 46. Rb8 Be7 47. f4 Na5 48. Ra8 Nb3 49. f5 Kh7 50. f6 Nd2+ 51. Ke2 Nc4 52. fxe7 Rxe7 53. e6 Nb6 54. Rd8 Rxe6+ 55. Kd3 Re7 56. Rd6 Nd7 57. h6 Kg8 58. Kd4 Rf7 59. Rg6+ Kh8 60. h3 Rf1 61. Rg7 Rd1+ 62. Ke3 Rd6 63. Re7 Nb8 64. Re8+ Kh7 65. Rxb8 Rxh6 66. Rb7+ Kh8 67. Rb8+ Kh7 68. Rb7+ Kg8 69. Ra7 Kf8 70. Ra8+ Ke7 71. Ra7+ Kd8 72. Ra8+ Kc7 73. Ra7+ Kb8 74. Rf7 Rh8 75. Rf3 Kc7 76. Kd4 Rh4+ 77. Kd5 Rh5+ 78. Kd4 Rh8 79. Rf7+ Kc6 80. Rf6+ Kb5 81. Rf5+ Ka6 82. Rf3 Kb5 83. Rc3 Rh4+ 84. Kd5 Rh7 85. Rb3+ Ka5 86. Kd4 Ka4 87. Rc3 Rh4+ 88. Kd5 Rh7 89. Re3 Ka5 90. Rb3 Rh6 91. Ke4 Ka4 92. Rc3 Rh8 93. Kd5 Rh7 94. Re3 Kb5 95. Rb3+ Ka4 1/2-1/2
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "11"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 c6 4. Nc3 Bg7 5. e4 d6 6. Bd3 c5 7. dxc5 Bg4 8. Qb3 O-O 9. cxd6 Bxf3 10. gxf3 exd6 11. Qxb7 Nbd7 12. O-O Rb8 13. Qxa7 Nc5 14. Be2 Ra8 15. Qxa8 Qxa8 16. Be3 Nh5 17. Rfd1 Ne6 18. Rxd6 Rd8 19. Rxd8+ Nxd8 20. c5 Qc8 21. Bb5 Qb8 22. Rb1 Ne6 23. a4 Nd4 24. Bxd4 Bxd4 25. c6 Qf4 26. Ne2 Qg5+ 27. Kf1 Bb6 28. Bc4 Qh4 29. Ng3 Nf4 30. h3 Kg7 31. e5 Kf8 32. Rd1 h5 33. Rd7 Ke8 34. Bxf7+ Kf8 35. Bc4 Ba5 36. Rf7+ Ke8 37. c7 Qxh3+ 38. Kg1 Qg2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "12"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Nc6 4. Nf3 d5 5. Bg5 dxc4 6. h4 Bg4 7. Bxf6 exf6 8. h5 gxh5 9. Qa4 Bb4 10. O-O-O f5 11. Ne5 Bxc3 12. Qxc4 Bxb2+ 13. Kxb2 Nxe5 14. Qb4 Qd5 15. e4 fxe4 16. f4 Bxd1 17. g4 Nc6 18. Bb5 Bxg4 19. Rh3 Bxh3 20. Qc4 Qxc4 21. d5 Qxb5+ 22. Kc1 Qxd5 23. Kb2 Be6 24. a3 Qd1 25. f5 Qb3+ 26. Ka1 Qa2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "13"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 c6 3. Nd2 Nf6 4. Ngf3 Bf5 5. Qb3 Qc8 6. cxd5 g6 7. dxc6 bxc6 8. Ng5 Be6 9. Nxe6 fxe6 10. e4 Bh6 11. Bd3 Bxd2+ 12. Bxd2 Kf7 13. e5 Nfd7 14. O-O Nb6 15. Bc3 N8d7 16. Rad1 Rb8 17. Rfe1 c5 18. Be4 Nd5 19. Qa3 cxd4 20. Bxd4 Qb7 21. Bxd5 Qb5 22. Qf3+ Nf6 23. Bxe6+ Ke8 24. exf6 g5 25. f7+ Kd8 26. Bb6# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "14"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nc6 5. Nf3 Nf6 6. a3 Qb6 7. Nc3 Qxb2 8. Na4 Qb5 9. Ne5 Qa5+ 10. Qd2 Qxa4 11. Rc1 Ne4 12. Qc2 Qa5+ 13. Bd2 Qxd2+ 14. Qxd2 Nxd2 15. Kxd2 Nxd4 16. e4 Nb3+ 17. Kc2 Nd4+ 18. Kb1 e6 19. exd5 exd5 20. f3 Bxa3 21. Re1 Bb4 22. Bb5+ Kf8 23. Bd7 Bxe1 24. Bxc8 Rxc8 25. Rxe1 Rc2 26. Nxf7 Kxf7 27. Re5 Rxg2 28. Rxd5 Rg1+ 29. Kb2 Rg2+ 30. Kc3 Ne2+ 31. Kd3 Nf4+ 32. Kd4 Nxd5 33. f4 Rd2+ 34. Ke4 Re8+ 35. Kf5 Rg2 36. h4 g6# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "15"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 Nc6 5. d5 Ne7 6. e4 Ng6 7. Be3 b6 8. Bd3 Be7 9. O-O h5 10. Qa4+ Bd7 11. Qb3 O-O 12. Rad1 h4 13. Rfe1 Nh7 14. g3 Ng5 15. Nxh4 Nxh4 16. gxh4 Nf3+ 17. Kg2 f5 18. Kxf3 fxe4+ 19. Kxe4 Bf5+ 20. Kf3 Bxd3+ 21. Kg2 e4 22. Bd4 Rf4 23. h5 Qd7 24. Be3 Qg4+ 25. Kh1 Qf3+ 26. Kg1 Qg4+ 27. Kh1 Qf3+ 28. Kg1 Rg4# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "16"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Nc6 4. Nf3 Bc5 5. h3 O-O 6. Be2 d6 7. d3 Nd4 8. a3 Nxe2 9. Kxe2 Be6 10. b4 Bb6 11. Ke1 a5 12. Rb1 axb4 13. Na4 bxa3 14. Bxa3 Ba5+ 15. Kf1 Rb8 16. Kg1 Qd7 17. Bb4 Bxb4 18. Rxb4 Qe7 19. Nc3 d5 20. Qb1 d4 21. Nb5 c6 22. Na3 c5 23. Rb6 Qc7 24. Kh2 Nd7 25. Rb5 Rfd8 26. Re1 Nf6 27. Rb6 Nd7 28. Rb2 Nf6 29. g3 Re8 30. Nh4 Qd7 31. Nb5 Bxh3 32. Nc7 Qxc7 33. Kxh3 Red8 34. Kg2 Re8 35. Rh1 Red8 36. Nf5 g6 37. Rb6 gxf5 38. Qc1 Qxb6 39. Qh6 fxe4 40. Qg5+ Kf8 41. Rh5 Nxh5 42. f4 Qb2+ 43. Kf1 Qh2 44. Qxe5 Nxg3+ 45. Ke1 Qe2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "17"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. Nf3 d5 2. g3 Nf6 3. d4 Bf5 4. Nc3 h6 5. Nh4 Bh7 6. Nf3 e6 7. Bg2 Bb4 8. a3 Ba5 9. b4 c5 10. bxa5 Qxa5 11. Bd2 cxd4 12. Nxd4 Qd8 13. O-O a6 14. e3 Nbd7 15. Qf3 Ne5 16. Qf4 Ng6 17. Qf3 e5 18. Nf5 e4 19. Nxg7+ Kf8 20. Ne6+ fxe6 21. Qe2 Ne5 22. Rab1 Bf5 23. Rxb7 h5 24. f4 exf3 25. Bxf3 Rb8 26. Bxd5 Nxd5 27. Rxb8 Qxb8 28. Nxd5 Ke8 29. Qxa6 Rg8 30. Nf6+ Ke7 31. Nxg8+ Ke8 32. Nf6+ Ke7 33. e4 Qb2 34. Bb4+ Kxf6 35. Rxf5+ Kg6 36. Qxe6+ Kg7 37. Bf8+ Kh7 38. Rxh5# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "18"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Nc6 4. b4 Nxb4 5. Ba3 e6 6. c4 dxc4 7. Ne5 Qd4 8. Qa4+ Nd7 9. Nc3 Nc2+ 10. Kf1 Nxa1 11. Nf3 Qb6 12. d3 Bxa3 13. dxc4 Qb2 14. Nh4 Qxc3 15. Nf5 Qc1+ 16. Qd1 Qxd1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "19"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 e6 5. d4 Bb4 6. a3 Ba5 7. Bc4 Nc6 8. O-O h6 9. b4 Qxd4 10. Nxd4 Bxb4 11. axb4 a5 12. Nxc6 Nf6 13. Qd8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "20"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Be2 Qxg2 4. Bf3 Qg6 5. Ne2 Qf6 6. Ng3 Nc6 7. Bg2 Qe6+ 8. Kf1 Nf6 9. Nc3 Qd7 10. d3 e5 11. Nh5 Nxh5 12. Nd5 Nf6 13. Qf3 Nxd5 14. Bg5 Be7 15. Qxd5 Bxg5 16. h4 Bf6 17. Qc4 O-O 18. h5 Nd4 19. Qxd4 Qxd4 20. Re1 Qxb2 21. Bd5 Qxc2 22. Re3 Bf5 23. Bc4 Rfd8 24. Bxf7+ Kxf7 25. Rhh3 Bxh3+ 26. Rxh3 Qxa2 27. d4 Qc4+ 28. Kg2 Qd5+ 29. Kf1 exd4 30. Rd3 Qxh5 31. Ke1 Qf5 32. Rf3 Qxf3 33. Kd2 d3 34. Ke1 Qe2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "21"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Ba6 5. e4 Be7 6. e5 Ng4 7. h3 Nh6 8. Bf4 Nc6 9. Ne4 Bb4+ 10. Bd2 O-O 11. Bxb4 Nxb4 12. a3 Bb7 13. Qe2 Na6 14. O-O-O d6 15. d5 exd5 16. cxd5 Nc5 17. Nxc5 dxe5 18. Nxb7 Qb8 19. Qa6 Nf5 20. Nxe5 c5 21. d6 b5 22. Nd7 Qe8 23. Nxf8 c4 24. d7 Qe7 25. d8=Q Rxd8 26. Rxd8 Qe1+ 27. Rd1 Qe4 28. Nd7 Ne3 29. fxe3 Qxe3+ 30. Kb1 Qb3 31. Re1 b4 32. Re8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "22"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. e3 Nc6 5. d5 exd5 6. Nc3 dxc4 7. e4 Bb4 8. e5 Ne4 9. Be3 Nxc3 10. bxc3 Bxc3+ 11. Bd2 Bxa1 12. Ng5 Bxe5 13. Bxc4 d5 14. Nxf7 Kxf7 15. Bg5 Bc3+ 16. Kf1 Qxg5 17. Qf3+ Ke6 18. Qh3+ Ke7 19. Qd3 Qc1+ 20. Ke2 Bg4+ 21. f3 Qxh1 22. Kf2 Qe1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "23"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bd6 4. d4 Bb4 5. Bg5 d6 6. dxe5 dxe5 7. Qxd8+ Kxd8 8. Nxe5 Be6 9. Bc4 Bxc4 10. Bxf6+ gxf6 11. O-O-O+ Nd7 12. Nxc4 Rg8 13. Nd5 Bc5 14. Nxf6 Rg5 15. Rxd7+ Kc8 16. Rhd1 b5 17. Rd8+ Kb7 18. Na5+ Ka6 19. Rxa8 Be7 20. Nd5 Bf6 21. Nxf6 Re5 22. Nc6 Kb7 23. Nxe5 h5 24. Rf8 h4 25. Rxf7 a6 26. Nd5 a5 27. Rxc7+ Ka6 28. Rh7 a4 29. Nc6 a3 30. Ra7# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "24"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Bxf7+ Kxf7 5. d3 Nd6 6. Bg5 Qe8 7. O-O h6 8. Bd2 Nc6 9. Nh4 Be7 10. f4 e4 11. Qh5+ Kg8 12. Qg6 Bxh4 13. f5 Qxg6 14. fxg6 exd3 15. g3 Bf6 16. Nc3 Bd4+ 17. Be3 Bxe3+ 18. Kg2 dxc2 19. Kh1 Ne7 20. Ne4 Nxe4 21. Rad1 Nf2+ 22. Kg1 Nxd1+ 23. Rf2 Nxf2 24. a4 c1=Q+ 25. Kg2 Qh1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "25"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d6 5. Bd3 Nf6 6. Be3 Qc7 7. e5 Ng4 8. exd6 exd6 9. O-O O-O 10. Qd2 Nxe3 11. Qxe3 d5 12. Ne5 f6 13. Nf3 Bg4 14. h3 Bh5 15. g4 Bxg4 16. hxg4 Nd7 17. Qe6+ Kh8 18. Rad1 f5 19. gxf5 Rfe8 20. Qf7 Rg8 21. fxg6 Rgd8 22. gxh7 Bh6 23. Ne5 Qxe5 24. dxe5 Nxe5 25. Qxb7 Rg8+ 26. hxg8=Q+ Rxg8+ 27. Kh1 Bd2 28. Qh7# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "27"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 f5 2. g3 Nf6 3. Nc3 c6 4. Nf3 a5 5. Bg2 e6 6. O-O a4 7. Bf4 d6 8. Ng5 Be7 9. e4 a3 10. bxa3 O-O 11. e5 Ng4 12. Nf3 Qc7 13. exd6 Nxf2 14. dxc7 Nxd1 15. cxb8=Q Bd7 16. Qxb7 Nxc3 17. Qxd7 Bg5 18. Qxe6+ Kh8 19. Nxg5 g6 20. Be5+ Rf6 21. Bxf6# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "26"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 Nc6 4. h3 d5 5. exd5 Qxd5 6. c3 e5 7. Na3 exd4 8. Nb5 Qe4+ 9. Be3 Rb8 10. cxd4 Kd8 11. Bd3 Qe6 12. Be2 Nf6 13. Bf4 Nd5 14. Be5 Bxe5 15. dxe5 Nxe5 16. Ng5 Qc6 17. O-O Ra8 18. Nc3 Be6 19. Rc1 Kc8 20. Nb5 Qb6 21. Re1 Kb8 22. Qd2 a6 23. Nd4 Qd6 24. Bf1 Bf5 25. g4 Be6 26. f4 Nc6 27. Bg2 Nxd4 28. Qxd4 Rd8 29. Re5 h6 30. Nf3 Re8 31. Rd1 Rd8 32. f5 gxf5 33. Ne1 c5 34. Qxd5 Bxd5 35. Nf3 Qc6 36. Kh2 fxg4 37. hxg4 Ka7 38. Nd4 cxd4 39. Rc1 Qxc1 40. Re7 Qxb2 41. Re4 Bxe4 42. Kg3 Qxg2+ 43. Kh4 Qh2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "28"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 Nc6 4. Bf4 d5 5. Nf3 e6 6. O-O Bd6 7. e3 Bxf4 8. gxf4 O-O 9. c4 dxc4 10. Nfd2 Nxd4 11. exd4 Qxd4 12. Nc3 Qxf4 13. Qe2 Ng4 14. Nf3 e5 15. Qd2 Be6 16. Qxf4 exf4 17. h3 Nf6 18. Rfe1 Bd5 19. Re7 Rf7 20. Ree1 Rff8 21. Re7 Rac8 22. h4 Rfe8 23. Rxe8+ Rxe8 24. Rd1 Bxf3 25. Bxf3 Ne4 26. Kg2 Nxc3 27. bxc3 Kf7 28. Rd7+ Re7 29. Rd5 Ke6 30. Rd4 b5 31. Bb7 c5 32. Bd5+ Ke5 33. Rd1 Rd7 34. a4 Rxd5 35. Ra1 b4 36. Re1+ Kd6 37. a5 bxc3 38. Kg1 c2 39. Kg2 Rd1 40. Rxd1+ cxd1=Q 41. a6 Qg4+ 42. Kf1 Qd1+ 43. Kg2 c3 44. Kh2 c2 45. h5 c1=Q 46. f3 Qh1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "29"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. d4 Bg4 5. d5 Nb8 6. h3 Bc8 7. Bd3 g6 8. O-O Nf6 9. Be3 Nfd7 10. Bc4 Na6 11. a3 Bg7 12. Qd3 Rb8 13. Rad1 f6 14. Nb5 Nb6 15. Nxa7 Nxc4 16. Qxc4 Bd7 17. Nb5 Ra8 18. Nc3 O-O 19. Qb3 Qa5 20. Qxb7 Qc7 21. Qb3 Rab8 22. Qc4 Qb7 23. Ne2 Bb5 24. Qb3 Bxe2 25. Qxb7 Rxb7 26. Rb1 Bxf1 27. Kxf1 f5 28. Ng5 Nc7 29. exf5 Bh6 30. Ne6 Bxe3 31. Nxf8 Bd2 32. fxg6 Kxf8 33. Rd1 Bg5 34. gxh7 Kg7 35. h4 Bh6 36. b3 Rb8 37. Ke2 Rf8 38. h8=Q+ Rxh8 39. Kf3 Rf8+ 40. Ke2 Kf7 41. Kf3 Kg7+ 42. Kg3 Kf7 43. b4 Nb5 44. bxc5 dxc5 45. Rd3 Kg8 46. Rb3 Nc7 47. Rd3 Bf4+ 48. Kf3 Bd6+ 49. Ke3 c4 50. Rd1 Ra8 51. Kd4 Ra4 52. h5 Kh7 53. Ra1 Nb5+ 54. Ke3 Kh6 55. Rh1 Nxa3 56. c3 Be5 57. Ke4 Bf6 58. Rh3 Nb5 59. Kf5 Nxc3 60. d6 exd6 61. Kxf6 Nb5 62. Ke6 Ra5 63. Kd5 Na3+ 64. Kxd6 Ra8 65. Kd5 Ra5+ 66. Kd4 Ra8 67. Rh1 Rc8 68. Ke4 Rb8 69. Kd4 Rd8+ 70. Kc5 Rd3 71. Rh2 Rd1 72. Rh3 c3 73. Rxc3 Rd2 74. Rxa3 Rc2+ 75. Kd5 Rxf2 76. g4 Rf4 77. Ra6+ Kg5 78. Rg6+ Kh4 79. h6 Kg3 80. h7 Kf3 81. h8=Q Kf2 82. Qc3 Rc4 83. Kxc4 Ke2 84. Rf6 Kd1 85. Rf1+ Ke2 86. Qd3# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "30"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bc4 Ne5 4. d3 Nxc4 5. dxc4 d6 6. Qd3 Nf6 7. Bg5 Qb6 8. O-O-O Ng4 9. Qd2 Be6 10. f4 Bxc4 11. f5 h6 12. Bh4 e5 13. Kb1 g5 14. fxg6 fxg6 15. Nf3 g5 16. Nxg5 hxg5 17. Bxg5 Rxh2 18. Rxh2 Nxh2 19. b3 Ng4 20. Nd5 Bxd5 21. Rf1 Bxe4 22. Qe2 Qb4 23. Kb2 Qd4+ 24. c3 Bd3 25. Qe1 Qd5 26. Rf4 Qxg2+ 27. Ka3 Bg7 28. b4 c4 29. Bh4 d5 30. Bg5 Bb1 31. Qxb1 exf4 32. Bxf4 Bxc3 33. Qg6+ Kd7 34. Qf7+ Kd8 35. Bc7+ Kc8 36. Bh2 Qb2+ 37. Ka4 Qxb4# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "31"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nc3 e6 4. Nf3 Bd6 5. Bxd6 cxd6 6. Qd3 Qb6 7. Rb1 Bd7 8. e4 Qa5 9. e5 Ne4 10. b4 Qb6 11. Nxe4 dxe4 12. Qxe4 Bc6 13. Qe3 O-O 14. exd6 a5 15. b5 Bxf3 16. Qxf3 Qxd4 17. Rd1 Qc5 18. Qxb7 Qb4+ 19. Rd2 Qb1+ 20. Ke2 Rd8 21. Qxa8 Qxb5+ 22. Ke3 Qe5+ 23. Kf3 g5 24. Bd3 Qxd6 25. Bxh7+ Kf8 26. Rxd6 Re8 27. Qxa5 e5 28. Qb5 Nd7 29. Rxd7 e4+ 30. Bxe4 Rxe4 31. Kxe4 Ke8 32. Rc7+ Kf8 33. Qf5 Kg7 34. h3 Kh8 35. Qxf7 g4 36. Rc8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "33"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 a6 4. Nf3 g6 5. Bd3 c6 6. O-O Bg4 7. h3 Bh5 8. g4 Qc8 9. gxh5 e5 10. hxg6 exd4 11. Nxd4 Qxh3 12. Bg5 Ng4 13. gxh7 Qh2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "32"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. Bf4 Nf6 3. c3 Nc6 4. Nf3 Nh5 5. Bg3 Nxg3 6. hxg3 Qd6 7. e3 e5 8. Bb5 e4 9. Nfd2 Be7 10. c4 a6 11. c5 Qe6 12. Bf1 b6 13. Qa4 bxc5 14. Na3 O-O 15. dxc5 Bxc5 16. Qc2 Qd6 17. Nb3 Bb4+ 18. Ke2 Bg4+ 19. f3 exf3+ 20. gxf3 Bxf3+ 21. Kxf3 Ne5+ 22. Kg2 h6 23. Be2 Rad8 24. Qf5 g6 25. Qh3 h5 26. Nc2 c5 27. Nxb4 cxb4 28. g4 Nxg4 29. Qg3 Qxg3+ 30. Kxg3 Nxe3 31. Nd4 Ra8 32. Rhg1 Rfe8 33. Kf2 h4 34. Rac1 h3 35. Bf3 h2 36. Rh1 b3 37. Nxb3 g5 38. Rc3 d4 39. Nxd4 Rab8 40. Be2 Nd5 41. Rb3 Rxb3 42. axb3 Re4 43. Nc6 Rf4+ 44. Bf3 g4 45. Ne5 gxf3 46. Rxh2 Rb4 47. Kxf3 Rxb3+ 48. Kg2 Rxb2+ 49. Kg1 Rb1+ 50. Kg2 Re1 51. Nc6 Re2+ 52. Kg3 Rxh2 53. Ne7+ Nxe7 54. Kg4 Rf2 55. Kh3 Nf5 56. Kg4 Kf8 57. Kh3 Ke7 58. Kg4 Kf6 59. Kh5 Ke5 60. Kg4 Nd4 61. Kh5 Rg2 62. Kh4 Rh2+ 63. Kg3 Re2 64. Kh4 Kf4 65. Kh5 Rh2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "34"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nc6 4. Nf3 e5 5. Bb5 exd4 6. Bxc6+ bxc6 7. Ne2 c5 8. Ng3 d5 9. Bg5 Bb7 10. O-O dxe4 11. Re1 Qe7 12. c3 d3 13. Qb3 O-O-O 14. Rad1 Bd5 15. Qa4 Qd7 16. Qxd7+ Rxd7 17. Bxf6 exf3 18. Bg5 fxg2 19. Rxd3 c4 20. Re8+ Kb7 21. Rd1 Bc6 22. Rxd7 Bxd7 23. Rd8 Kc6 24. Be7 Bxe7 25. Rxh8 h6 26. Rg8 Bf6 27. Nh5 Be5 28. Ra8 Kb7 29. Rf8 Bg4 30. f4 Bd6 31. Rg8 Bxh5 32. Rxg7 Bf3 33. b4 cxb3 34. f5 Bc5# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "35"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 d5 5. cxd5 cxd4 6. dxc6 dxc3 7. Qxd8+ Kxd8 8. bxc3 e6 9. Ne5 Ke7 10. c7 Nd5 11. Ba3+ Ke8 12. Bxf8 Kxf8 13. e4 Nxc7 14. Bd3 Ke7 15. Ke2 b6 16. c4 f6 17. Nc6+ Kd6 18. Nd4 Na6 19. Nb5+ Ke7 20. Nd4 Nc5 21. Nc6+ Kd6 22. Nd4 Bb7 23. Nb5+ Ke7 24. Nc7 Rac8 25. Nb5 Rcd8 26. Bc2 Bxe4 27. Bxe4 Nxe4 28. Nxa7 Ra8 29. Nc6+ Kd7 30. Nb4 Ra4 31. Rad1+ Ke7 32. Nc6+ Ke8 33. Rd8+ Kf7 34. Rxh8 Rxa2+ 35. Kf3 Nd2+ 36. Kg3 Ra6 37. Rxh7 e5 38. Rc1 Ra3+ 39. Kg4 Ne4 40. Rc2 Kg6 41. Rh5 Rb3 42. f4 Nc3 43. fxe5 Nd1 44. Ne7+ Kf7 45. Nd5 b5 46. exf6 gxf6 47. Rf5 bxc4 48. Rxf6+ Kg7 49. Kf5 Rb5 50. Rg6+ Kh8 51. Ke4 Ra5 52. Nf6 Nf2+ 53. Rxf2 Re5+ 54. Kxe5 c3 55. Rg8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "36"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. e3 e5 5. e4 Bd6 6. g3 O-O 7. Bg2 Qb6 8. d3 Nd4 9. b3 Qb4 10. Bd2 Nxf3+ 11. Qxf3 Qb6 12. Qe2 Re8 13. Qd1 Rb8 14. g4 h6 15. Qe2 Ra8 16. Bh3 Rb8 17. Qd1 Ra8 18. Rg1 Rb8 19. Qf3 Qc6 20. Bg2 Ra8 21. Bh3 Rd8 22. a4 Qb6 23. Bxh6 Nxe4 24. Nxe4 gxh6 25. a5 Qb4+ 26. Ke2 Be7 27. Qf5 d6 28. Qh5 Be6 29. g5 hxg5 30. Nxg5 Bxg5 31. Rxg5+ Kf8 32. Bxe6 fxe6 33. Qh6+ Ke8 34. Qxe6+ Kf8 35. Rg8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "37"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Bb4 4. Nf3 Nc6 5. Nd5 Nxe4 6. Nxb4 Nxb4 7. d3 Nd6 8. Nxe5 Nxc4 9. dxc4 Qf6 10. Ng4 Qc6 11. Qe2+ Qe6 12. Ne3 d6 13. Bd2 Nc6 14. Nd5 Qxe2+ 15. Kxe2 Kd8 16. Bc3 f6 17. Nxf6 Ne7 18. Ne4 Nf5 19. c5 Bd7 20. cxd6 Nxd6 21. Nxd6 cxd6 22. Bxg7 Bb5+ 23. Kf3 Rg8 24. Bf6+ Kc8 25. Rad1 Kd7 26. Rd5 Kc6 27. Rhd1 Raf8 28. Rxd6+ Kc7 29. R1d5 Re8 30. Bd8+ Kb8 31. Rxb5 Rgf8+ 32. Bf6 Ka8 33. Rh5 Kb8 34. Rxh7 Re5 35. Rd8+ Rxd8 36. Bxe5+ Kc8 37. Rc7+ Kb8 38. Ke4 Rd2 39. Rc6+ Rd6 40. Bxd6+ Ka8 41. Rc8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "38"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nc6 4. d3 Bb4 5. Nf3 d5 6. exd5 Nxd5 7. a3 Nxc3 8. axb4 Nxd1 9. b5 e4 10. Ng5 Rb8 11. bxc6 Ra8 12. O-O Nxb2 13. Bxf7+ Kf8 14. Be3 Qe7 15. Bd5 bxc6 16. Bxc6 Rb8 17. Ra5 exd3 18. Rxa7 dxc2 19. Bf3 Nc4 20. Bf4 Qf6 21. Be2 Qxf4 22. Nxh7+ Rxh7 23. Bh5 c1=Q 24. Rxc7 Rxh5 25. g3 Bh3 26. Rc8+ Rxc8 27. Rxc1 Qxc1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "39"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 a5 4. Nc3 Be7 5. e4 d6 6. e5 Ng4 7. Bxe7 Qxe7 8. h3 Nh6 9. exd6 Qxd6 10. Bc4 Nd7 11. Nb5 Qf4 12. Qd2 Qe4+ 13. Be2 Kd8 14. Qg5+ Nf6 15. Qxg7 Nhg8 16. Ng5 Ne8 17. Qxh8 Qf5 18. Qxg8 Bd7 19. Bd3 Qd5 20. Nxf7+ Kc8 21. Qg5 Nf6 22. Qxf6 Bxb5 23. Qh8+ Kd7 24. Ne5+ Ke7 25. Qxa8 Bc4 26. Bxc4 Qxg2 27. O-O-O Qd5 28. Bxd5 a4 29. Bxb7 h5 30. Bf3 c5 31. Qa7+ Kf6 32. Qf7+ Kg5 33. Rdg1+ Kh4 34. Qxh5# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "40"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bf4 Nd5 5. e3 Nxf4 6. exf4 Bd6 7. Ne5 Qf6 8. Qg4 Nc6 9. Nc3 Nxd4 10. O-O-O h5 11. Ne4 hxg4 12. Nxf6+ gxf6 13. Nxg4 Bxf4+ 14. Ne3 Nf5 15. Bb5 e5 16. Rd3 e4 17. Rb3 Nxe3 18. fxe3 Rxh2 19. Rxh2 Bxh2 20. Bf1 d5 21. g3 Bxg3 22. Rb4 Ke7 23. c4 Kd6 24. cxd5 Kxd5 25. Rc4 Be6 26. a4 f5 27. Kd2 Be5 28. Be2 Rc8 29. Bd1 Kxc4 30. Kc2 a6 31. Kc1 Kd3 32. a5 Rd8 33. Ba4 Kxe3 34. b3 Bc3 35. b4 Bxb4 36. Bb3 Bxb3 37. Kb2 Be6 38. Kc1 f4 39. Kb1 f3 40. Kc1 f2 41. Kc2 Rd2+ 42. Kc1 f1=Q# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "41"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. a3 Ba5 5. d4 Bxc3+ 6. bxc3 Qe7 7. d5 Nb8 8. Bd3 Nf6 9. O-O d6 10. Be3 O-O 11. c4 Na6 12. Bg5 Bg4 13. h3 Bc8 14. Bxf6 Qe8 15. Bg5 f5 16. exf5 h6 17. Bh4 Qh5 18. g4 Qf7 19. Bg3 Nc5 20. Be2 Qe8 21. Qd2 Bd7 22. Qc3 Na4 23. Qe3 Nc5 24. Nxe5 g5 25. fxg6 h5 26. Nxd7 Qxd7 27. gxh5 Rae8 28. Qd2 Nb3 29. cxb3 Rxf2 30. Rxf2 Qe7 31. Bd3 Qe3 32. Qxe3 Rxe3 33. Bxd6 a5 34. Rf8+ Kg7 35. Rf7+ Kg8 36. Rf8+ Kg7 37. h6+ Kxh6 38. Bf4+ Kg7 39. Rf7+ Kg8 40. Bxe3 c6 41. Bh6 b5 42. Rf8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "42"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "1/2-1/2"]
+[TimeControl "20+0.2"]
+[Termination "threefold_repetition"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Qe2 Nd4 5. Nxd4 exd4 6. a4 d6 7. a5 Bg4 8. Qd3 Qe7 9. h3 Bf5 10. O-O Qxe4 11. Qb3 Be6 12. Na3 d5 13. Bb5+ Ke7 14. Bd3 Qe5 15. f4 Qd6 16. Qxb7 Rd8 17. Qxa7 Qb4 18. Qxc7+ Rd7 19. Qc8 Qxa5 20. f5 Rd8 21. Qb7+ Bd7 22. Nc4 Qxa1 23. Re1+ Ne4 24. Qxd5 Bxf5 25. Qxf5 Rd7 26. Qe5+ Kd8 27. Qb8+ Ke7 28. Qe5+ Kd8 29. Qb8+ Ke7 1/2-1/2
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "43"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nc6 4. d4 Nxd4 5. Nxd4 cxd4 6. Bb5+ Bd7 7. Bxd7+ Qxd7 8. Qxd4 Nf6 9. f4 e6 10. Be3 Ng4 11. O-O Rc8 12. Qxa7 Nxe3 13. Qxe3 Be7 14. e5 d5 15. Rad1 Bb4 16. Qd4 Rc4 17. Qd3 Qc7 18. Nb5 Qa5 19. b3 Rc6 20. Nd4 Rc3 21. Qd2 g6 22. a4 Rc4 23. Qe2 Rxd4 24. Rxd4 O-O 25. Qb5 Qxb5 26. axb5 Bc5 27. c3 Ra8 28. Kf2 Ra3 29. b4 Bb6 30. Ke2 Ra2+ 31. Rd2 Ra8 32. Kd3 Kg7 33. Rc2 Kf8 34. c4 h5 35. c5 Bc7 36. b6 Bd8 37. b5 Ke7 38. Rb1 Bxb6 39. cxb6 g5 40. Rc7+ Kf8 41. fxg5 Ra3+ 42. Kd4 Kg8 43. Rxb7 Ra4+ 44. Kd3 Rg4 45. Rc7 f6 46. b7 Rd4+ 47. Kxd4 fxe5+ 48. Kxe5 Kf8 49. b8=Q# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "44"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nc6 4. h3 Nf6 5. O-O Nxe4 6. Re1 d5 7. Bb3 Nd4 8. Ba4+ b5 9. Nxd4 bxa4 10. Nb5 a6 11. N5c3 Nxc3 12. dxc3 Qd6 13. Nd2 Be6 14. Qf3 O-O-O 15. Rb1 Kb8 16. b4 c4 17. Nf1 d4 18. Bf4 d3 19. Rbd1 dxc2 20. Rxd6 exd6 21. Ne3 g5 22. Bg3 g4 23. Qe4 Kc8 24. h4 d5 25. Qd4 Be7 26. Qb6 Kd7 27. Qa7+ Ke8 28. Nxc2 Bf6 29. Bf4 Bxc3 30. Bg5 Bxb4 31. Rxe6+ fxe6 32. Qxa6 Be7 33. g3 Kf7 34. Qa7 Rhe8 35. Kg2 Ra8 36. Qc7 h5 37. Nd4 Ra6 38. Nc2 a3 39. Be3 Raa8 40. Bc1 Rec8 41. Qf4+ Kg8 42. Qh6 e5 43. Qxh5 Rd8 44. Qxe5 Bc5 45. Bf4 Kf7 46. Qg5 c3 47. Qf5+ Kg8 48. Qe6+ Kh7 49. Qf7+ Kh8 50. Be5# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "46"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "1/2-1/2"]
+[TimeControl "20+0.2"]
+[Termination "threefold_repetition"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. c3 Nf6 5. exd5 exd5 6. Bd3 Bd6 7. h3 O-O 8. Ndf3 Be6 9. Bg5 h6 10. Be3 Ne4 11. Bc2 Qf6 12. Qe2 Rad8 13. O-O-O Qg6 14. Nh4 Qf6 15. Nhf3 Qg6 16. Nh4 Qf6 1/2-1/2
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "45"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Qe2+ Be7 6. Nf3 O-O 7. Be3 Bb4 8. a3 Bxc3+ 9. bxc3 c6 10. O-O-O Re8 11. Qd2 Be6 12. Bd3 Qa5 13. Kb2 b5 14. Ne5 Ne4 15. Qe1 f6 16. f3 Nd6 17. Ng4 Nc4+ 18. Bxc4 bxc4 19. Bf4 Qb6+ 20. Ka2 Nd7 21. Rb1 Bxg4 22. Rxb6 axb6 23. Qd2 Bf5 24. Bd6 b5 25. Kb1 Re6 26. Qf4 Nb6 27. Bc7 Bg6 28. Bxb6 Bxc2+ 29. Kxc2 Rxa3 30. Qb8+ Kf7 31. Qb7+ Re7 32. Qxc6 Rxc3+ 33. Kxc3 Re2 34. Qxd5+ Ke7 35. Qxb5 Rc2+ 36. Kxc2 Kf8 37. Bc5+ Kf7 38. Qxc4+ Kg6 39. Qe6 h5 40. Kd3 Kh7 41. Qf5+ Kg8 42. Qxh5 g6 43. Qxg6+ Kh8 44. Bd6 f5 45. Be5# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "48"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c6 2. d4 d5 3. Nc3 Nf6 4. e5 Ne4 5. Nge2 Nd7 6. Nb1 e6 7. Nf4 Qh4 8. Be3 Nxf2 9. Bxf2 Qxf4 10. Nd2 Nxe5 11. dxe5 Qxe5+ 12. Be2 Qxb2 13. O-O Bd6 14. Ne4 Be5 15. Rb1 Qxa2 16. Ng5 O-O 17. Bc5 Re8 18. Bh5 g6 19. Bxg6 fxg6 20. Qg4 Qxc2 21. Bd4 Qc4 22. Bxe5 Qxg4 23. g3 Qxg5 24. Rf7 Kxf7 25. Bf4 Qf5 26. Rf1 Kg8 27. Bc1 Qe4 28. Bg5 e5 29. Bd8 Bh3 30. Rf7 Qg2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "47"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1/2-1/2"]
+[TimeControl "20+0.2"]
+[Termination "threefold_repetition"]
+
+1. e4 c6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 e6 6. Bd3 Be7 7. O-O a6 8. Be3 O-O 9. Qd2 c5 10. dxc5 Nxc5 11. Nd4 Nxd3 12. Qxd3 Qe8 13. Rad1 Kh8 14. Rfe1 h6 15. Bf4 Bd7 16. Bg3 Rg8 17. Nce2 Qc8 18. Qf3 Rf8 19. Nf4 Rg8 20. Nd3 Be8 21. Nf4 Nc6 22. Qb3 Na5 23. Qd3 Qc7 24. Qe3 Qb6 25. Nf5 Bc5 26. Nd4 Nc6 27. Nfe2 Qxb2 28. Qb3 Qa3 29. Qxb7 Nxd4 30. Nxd4 Rd8 31. Nc6 Bxc6 32. Qxc6 Rc8 33. Qb7 Rgf8 34. Ra1 Bd4 35. Rad1 Qa5 36. Qb3 Kg8 37. Qd3 Bc3 38. Re2 Rc4 39. Qe3 Bb4 40. Qb3 Rfc8 41. h3 Qc7 42. a3 Bf8 43. Rdd2 a5 44. Qd3 Qc6 45. Qb3 Qa4 46. Qxa4 Rxa4 47. Rd1 Bc5 48. Rd3 Kh7 49. Re1 Rxa3 50. Rxa3 Bxa3 51. Re2 Rc4 52. Re3 Bb2 53. Re2 Ba3 54. Rd2 a4 55. Rd3 Bc1 56. Rf3 Kg8 57. Rd3 Kh7 58. Rf3 Kg6 59. h4 h5 60. Rd3 Rxc2 61. Rd4 Rc4 62. Rxc4 dxc4 63. Kf1 Bd2 64. Ke2 Bb4 65. Ke3 c3 66. Ke4 Ba5 67. Bf4 Kh7 68. Kd3 Bd8 69. Kxc3 Bxh4 70. g3 Bd8 71. Kb4 g5 72. Be3 Be7+ 73. Kxa4 Kg6 74. Kb3 Kf5 75. Bd4 h4 76. gxh4 gxh4 77. Kc4 h3 78. Bc5 Bxc5 79. Kxc5 Kg6 80. f4 h2 81. Kc4 f5 82. exf6 Kf7 83. f5 exf5 84. Kd4 Kxf6 85. Kd5 Kf7 86. Ke5 Kg6 87. Kd5 Kf7 88. Ke5 f4 89. Kxf4 Ke7 90. Ke5 Kf7 91. Kf5 Kf8 92. Kf6 Kg8 93. Ke6 Kh8 94. Ke5 Kh7 95. Ke4 Kg6 96. Kd4 Kf5 97. Kd5 Kg6 98. Ke4 h1=Q+ 99. Ke5 Qc6 100. Kf4 Kh7 101. Kf5 Qd5+ 102. Kg4 Qd8 103. Kf4 Qc8 104. Ke4 Kg6 105. Ke5 Qd8 106. Ke4 Kh7 107. Kf4 Qa5 108. Ke3 Qd5 109. Ke2 Qd6 110. Kf3 Qb8 111. Ke4 Qc8 112. Kd5 Qh3 113. Kd4 Qh6 114. Kd5 Qe3 115. Kd6 Qc3 116. Kd5 Qc8 117. Ke5 Qc5+ 118. Ke4 Qf8 119. Ke5 Qf7 120. Kd4 Qe8 121. Kc4 Qf7+ 122. Kd4 Qh5 123. Kc4 Qh3 124. Kd4 Kg6 125. Ke4 Qh4+ 126. Ke5 Qb4 127. Kd5 Qh4 128. Kc5 Qh6 129. Kc4 Qh4+ 130. Kc5 Qh2 131. Kd5 Kf5 132. Kd4 Ke6 133. Ke3 Qc7 134. Kd4 Qc2 135. Ke3 Qa4 136. Kd3 Kf6 137. Kd2 Qc4 138. Ke3 Qa4 139. Kf3 Ke5 140. Ke3 Ke6 141. Kd3 Ke5 142. Ke3 1/2-1/2
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "49"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 e6 3. cxd5 Qxd5 4. Nc3 Bb4 5. e3 e5 6. Qa4+ Nc6 7. Qxb4 Nxb4 8. Nxd5 Nc2+ 9. Kd2 Nxa1 10. Nxc7+ Kf8 11. Nxa8 Nf6 12. dxe5 Ng4 13. Nf3 Bd7 14. Ke1 Ke7 15. Nc7 Bc6 16. Be2 Nc2+ 17. Kf1 a6 18. Nd4 Nxd4 19. exd4 Rc8 20. Nxa6 bxa6 21. Bg5+ f6 22. Bxg4 Bb5+ 23. Kg1 Rc2 24. exf6+ Ke8 25. fxg7 Rc1+ 26. Bxc1 Ke7 27. g8=Q a5 28. Qg5+ Ke8 29. Qxb5+ Kf8 30. Bg5 Kg7 31. Qxa5 Kf7 32. Qe5 Kf8 33. Qf6+ Ke8 34. Qe7# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "51"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. cxd5 Nbd7 6. e4 O-O 7. e5 Nh5 8. g4 b5 9. gxh5 b4 10. h6 bxc3 11. hxg7 Re8 12. e6 cxb2 13. Bxb2 Bb7 14. exd7 Rb8 15. Bb5 f6 16. dxe8=Q+ Kxg7 17. Qxd8 c5 18. Qxb8 Kf7 19. Qe8+ Kg7 20. Qxe7+ Kg8 21. Qxb7 a6 22. Qe2 g5 23. Qe8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "50"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nc6 4. Bf4 Bb4+ 5. Nc3 Bxc3+ 6. bxc3 Nf6 7. c5 Ne4 8. Qc2 O-O 9. e3 g5 10. Bg3 Nxg3 11. hxg3 f5 12. Bb5 g4 13. Nh2 Qd7 14. Rb1 a6 15. Bxc6 bxc6 16. Kd2 Re8 17. Rbe1 e5 18. Nf1 Bb7 19. dxe5 Rxe5 20. Rh6 Rd8 21. f4 gxf3 22. gxf3 Ree8 23. Kd1 Re6 24. Rh4 Rg6 25. Qd3 Qe7 26. Qd4 Qf6 27. Qxf6 Rxf6 28. Rb4 Bc8 29. Kd2 Be6 30. a4 Kf7 31. Rb7 Rc8 32. Rb4 Rd8 33. Rb7 Rc8 34. Ke2 Rg6 35. Rb4 Rg5 36. Rh4 Rh8 37. Rb1 Kf6 38. Rb7 Rg7 39. Rh6+ Rg6 40. Rxg6+ hxg6 41. f4 Rh7 42. Ra7 Bc8 43. Ra8 Rh8 44. Nd2 Rh2+ 45. Ke1 Rh1+ 46. Ke2 Bb7 47. Ra7 Bc8 48. a5 Rh7 49. Nf3 Rg7 50. Kd3 Ke6 51. Ng5+ Kd7 52. Nf3 Ke6 53. Ra8 Rg8 54. Kd2 Rh8 55. Kd3 Kf6 56. Ne5 Ke6 57. Ra7 Rh7 58. Ra8 Rh8 59. Ra7 Rh7 60. Nxc6 Rd7 61. Ra8 Bb7 62. Nd4+ Ke7 63. Rh8 c6 64. Kd2 Kf6 65. Kd3 Kg7 66. Rb8 Kf6 67. Rf8+ Ke7 68. Rb8 Kf6 69. Kd2 Rf7 70. Rd8 Ke7 71. Rb8 Kf6 72. Re8 Re7 73. Rh8 Kg7 74. Rd8 Kf7 75. Nf3 Ke6 76. Rd6+ Kf7 77. Ne5+ Kg7 78. Nxg6 Rc7 79. c4 Kf7 80. Kd3 dxc4+ 81. Kd2 Bc8 82. Kc3 Be6 83. Rxc6 Rxc6 84. Ne5+ Kf6 85. Nxc6 Bd5 86. Nd4 Bf7 87. Nc2 Be6 88. c6 Bd5 89. Nd4 Ke7 90. c7 Kd7 91. c8=N Kxc8 92. Nxf5 Kd7 93. Kb4 Ke6 94. e4 Bxe4 95. Nh4 Kd5 96. Ka3 c3 97. Kb3 c2 98. Kb2 Kd4 99. Kc1 Kd3 100. f5 Kd4 101. f6 Bd5 102. Nf3+ Kc3 103. Ng5 Kd4 104. g4 Bc4 105. Nf3+ Kc3 106. Ne5 Kd4 107. f7 Bxf7 108. Nf3+ Kc3 109. g5 Bd5 110. Ne5 Kd4 111. Nd7 Be4 112. Nf6 Bd3 113. Kd2 Bf5 114. Ng8 Ke5 115. Nh6 Be4 116. Nf7+ Ke6 117. Nd8+ Ke7 118. Nf7 Kxf7 119. g6+ Bxg6 120. Kc1 Ke6 121. Kd2 Ke5 122. Kc1 Bf5 123. Kd2 Kf4 124. Kc1 Ke3 125. Kb2 Kd2 126. Ka2 c1=Q 127. Kb3 Bd7 128. Kb4 Qc3# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "52"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 g6 3. Bf4 Nc6 4. Nc3 e6 5. Nf3 d5 6. a3 dxc4 7. h4 Nd5 8. Bg3 Nxc3 9. Qc1 Na4 10. h5 gxh5 11. Rxh5 Nb6 12. Bh4 Qd6 13. Qc2 Nxd4 14. Qc3 Bg7 15. Rd1 Nxf3+ 16. Qxf3 Nd5 17. Qe4 Nc3 18. Qc6+ bxc6 19. Rxd6 cxd6 20. Bg5 Ne4 21. Bh6 Bxb2 22. e3 d5 23. Bxc4 dxc4 24. f3 Nd6 25. Ke2 Nf5 26. a4 Ng3+ 27. Kd2 Nxh5 28. Kc2 c3 29. a5 Rg8 30. g4 Nf6 31. a6 Bxa6 32. Kb1 Bd3+ 33. Ka2 e5 34. f4 Nxg4 35. Bg5 Nxe3 36. fxe5 Rxg5 37. e6 Ra5+ 38. Kb3 Rb8# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "54"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nc6 5. Nf3 Nf6 6. a3 Qb6 7. Qc2 Nxd4 8. Qa4+ Nc6 9. Be5 Bd7 10. Bc3 Ne4 11. e3 Nxc3 12. Nxc3 Qxb2 13. Nd1 Qxa1 14. Bb5 e5 15. Bxc6 Bxc6 16. Qc2 Bxa3 17. O-O Bb5 18. Re1 Bb4 19. Qc7 Bxe1 20. Ng5 Qxd1 21. Qxb7 Bd2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "53"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 c6 3. Nd2 Nd7 4. Ngf3 Ngf6 5. Qc2 a6 6. e4 e5 7. dxe5 Ng4 8. Qc3 d4 9. Nxd4 Ndxe5 10. c5 a5 11. Be2 a4 12. O-O Qh4 13. N2f3 Qe7 14. Bf4 Nxf3+ 15. gxf3 g5 16. Bd6 Bg7 17. Bxe7 Ne5 18. Bxg5 Rg8 19. f4 Nf3+ 20. Bxf3 Bf6 21. Qe3 Be6 22. Nxe6 Bxg5 23. Nxg5 O-O-O 24. Bg2 Kb8 25. Nxf7 h6 26. Nxd8 h5 27. Ne6 h4 28. f5 Rg4 29. Qf3 h3 30. Qxg4 hxg2 31. Kxg2 Ka8 32. e5 b6 33. Qxa4+ Kb7 34. Qb3 b5 35. Nd4 Kc8 36. Nxc6 Kd7 37. Qxb5 Ke8 38. e6 Kf8 39. f6 Kg8 40. Qb7 Kf8 41. Qb8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "55"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Bd6 4. d4 Nc6 5. d5 Nd4 6. Nxd4 c5 7. Nf5 Bf8 8. e4 d6 9. Bd3 a5 10. O-O h5 11. Be3 g6 12. Ng3 h4 13. Nge2 h3 14. gxh3 Bxh3 15. Re1 Ng4 16. Bd2 Qh4 17. Qa4+ Kd8 18. Ng3 Bh6 19. Bxh6 Qxh6 20. Qc2 Nxh2 21. Kxh2 Bg4+ 22. Kg1 f5 23. exf5 Qh2+ 24. Kf1 Qh3+ 25. Kg1 Bf3 26. fxg6 Qg2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "56"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. e4 Nc6 4. Nf3 Bc5 5. h3 O-O 6. a3 d6 7. b4 Bb6 8. Rb1 Be6 9. Na4 Nxe4 10. d4 Bxd4 11. Bd3 Nxf2 12. Ng5 Nxd1 13. Nc5 dxc5 14. Bxh7+ Kh8 15. Ra1 Bc3+ 16. Ke2 Bxc4+ 17. Kf3 Bxa1 18. Bf4 exf4 19. Re1 Bc3 20. Re4 Qxg5 21. Re3 Qg3+ 22. Ke4 Rae8+ 23. Kf5 Nxe3# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "57"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. Nf3 d5 2. g3 Nf6 3. d4 Bg4 4. h3 Bc8 5. Nc3 c6 6. Qd3 e6 7. e4 Bb4 8. e5 Ne4 9. Bd2 Nxd2 10. Kxd2 Bd7 11. a3 Be7 12. Kc1 O-O 13. Kb1 c5 14. Qe3 Qc7 15. Bd3 a6 16. g4 b5 17. g5 Nc6 18. dxc5 Be8 19. Re1 Rb8 20. Rd1 g6 21. Re1 Na5 22. b4 Nc4 23. Bxc4 bxc4 24. Ka2 a5 25. Rab1 Qa7 26. bxa5 Ra8 27. Nd4 Qxc5 28. Rb4 Qxa5 29. Rb7 Qxa3+ 30. Kb1 Qa1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "58"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Nc6 4. d4 Bf5 5. c4 dxc4 6. Qa4 Qd5 7. Bd2 b5 8. Qd1 Nxd4 9. Nh4 Nc2+ 10. Kf1 Be4 11. Qxc2 Bxc2 12. Bxd5 Nxd5 13. Nf3 b4 14. a3 e6 15. Nd4 Bxb1 16. Rxb1 bxa3 17. bxa3 Bxa3 18. e4 Nf6 19. Ba5 Bd6 20. f3 e5 21. Nc2 Ke7 22. Ne3 Rab8 23. Kg2 Rxb1 24. Rxb1 Ke6 25. Rb7 Rc8 26. Kf1 a6 27. Ke2 h6 28. g4 h5 29. Ra7 hxg4 30. Rxa6 Rh8 31. Bxc7 Rxh2+ 32. Kf1 Rh1+ 33. Kf2 Rh2+ 34. Kg1 Rd2 35. Rxd6+ Rxd6 36. Nf5 Rd1+ 37. Kf2 Ne8 38. Ba5 Ra1 39. Bb4 g6 40. Ke3 gxf5 41. Kd2 gxf3 42. Kc3 fxe4 43. Kc2 f2 44. Ba3 f1=Q 45. Kc3 Qd3+ 46. Kb4 Rxa3 47. Kc5 Rb3 48. Kc6 Qd5# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "59"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. Nf3 c6 5. d4 Nf6 6. Bd3 e6 7. O-O a5 8. Be3 Nbd7 9. Qd2 Bb4 10. a3 Be7 11. Ng5 h6 12. Nge4 b6 13. Nxf6+ Bxf6 14. Ne4 Be7 15. Qc3 Ra7 16. Qxc6 Rc7 17. Qb5 Kf8 18. Bf4 e5 19. dxe5 Bb7 20. e6 Nc5 21. Bxc7 Qa8 22. Nxc5 bxc5 23. exf7 Bc6 24. Qb3 c4 25. Bxc4 Bxg2 26. Rfe1 a4 27. Qe3 Qd8 28. Bxd8 Be4 29. Bxe7+ Kxe7 30. Qd4 Kf8 31. Qd6# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "60"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Nge2 Nc6 5. d4 Qa5 6. Be3 Nf6 7. Nc1 Nd5 8. Bd2 Nxd4 9. Bd3 e5 10. Nb5 Bb4 11. c3 Nxb5 12. Qc2 Bc5 13. a4 Nd6 14. O-O h6 15. c4 Nb4 16. Qb3 O-O 17. Re1 Be6 18. Rxe5 Bxf2+ 19. Kh1 Qxe5 20. Bxb4 Bd4 21. Ra3 Bxb2 22. h3 Bxc1 23. Bc3 Qe3 24. Qd1 Bxa3 25. g3 Qxg3 26. Qd2 Qxh3+ 27. Kg1 Bc5+ 28. Qf2 Qg3+ 29. Kh1 Qxf2 30. Bxg7 Qg1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "62"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Bg5 h6 5. Bf4 Nc6 6. a3 g5 7. Bc1 g4 8. Ne5 Nxe5 9. dxe5 Ne4 10. Bf4 d5 11. f3 gxf3 12. exf3 Qh4+ 13. g3 Qe7 14. fxe4 dxe4 15. Bg2 f5 16. Nc3 Qc5 17. Qh5+ Ke7 18. Qg6 Qxc4 19. Rd1 Qb3 20. Qf6+ Ke8 21. Rd8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "61"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. a3 Bf8 6. e4 c5 7. d5 Ng4 8. Bg5 Qc7 9. Bd3 Bb7 10. O-O f6 11. Nb5 Qd8 12. Bf4 e5 13. Bg3 d6 14. h3 a6 15. hxg4 axb5 16. cxb5 Bc8 17. Nd2 Be7 18. Nc4 Nd7 19. Qc2 h5 20. gxh5 Rxh5 21. Be2 Rh6 22. Bd3 Kf8 23. Rad1 Kg8 24. Rfe1 Qf8 25. Ne3 Bd8 26. Nf5 Rh7 27. Ne3 Qe8 28. Nf5 Be7 29. Nxe7+ Kf8 30. Nf5 g6 31. Nxd6 Rh1+ 32. Kxh1 Nb8 33. Nxe8 Be6 34. Nc7 Nc6 35. Nxe6+ Ke7 36. bxc6 Rd8 37. Nxd8 f5 38. c7 Ke8 39. c8=Q f4 40. Nc6+ Kf7 41. Nxe5+ Kg7 42. Qc7+ Kh6 43. Qxb6 Kh7 44. Qxg6+ Kh8 45. Nf7# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "64"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. O-O d5 5. Bb3 Nc6 6. d3 Nc5 7. Nc3 Nxb3 8. Nxe5 Nxa1 9. Nxc6 bxc6 10. Re1+ Be6 11. Na4 d4 12. Rxe6+ fxe6 13. Qh5+ Kd7 14. Bf4 Nxc2 15. a3 Qf6 16. Bg3 Rb8 17. Bh4 Qf5 18. Bg5 Rb3 19. h3 Be7 20. Kf1 Bxg5 21. Qxg5 Qxg5 22. f4 Qb5 23. Nb6+ Qxb6 24. Kf2 Rxd3 25. b4 Rxa3 26. Kf1 d3 27. b5 Ra1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "63"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bd6 4. d4 Bb4 5. Bg5 h6 6. Bxf6 gxf6 7. dxe5 d6 8. exd6 Nc6 9. dxc7 Qe7 10. Bd3 Rg8 11. Qd2 Rxg2 12. Qxh6 Bd7 13. Qh8+ Qf8 14. Qxf6 Rg6 15. Qf4 Rg4 16. Qf6 Rc8 17. h3 Be7 18. Qxe7+ Kxe7 19. Nd5+ Ke8 20. hxg4 Nb4 21. Nf6+ Ke7 22. Ne5 Bc6 23. Nxc6+ Kxf6 24. e5+ Ke6 25. Bf5+ Kd5 26. Bxc8 Kxc6 27. Bf5 Kxc7 28. Ke2 Qc5 29. e6 Qb5+ 30. Kd2 Qe5 31. exf7 Qd5+ 32. Kc3 Nxa2+ 33. Rxa2 a5 34. f8=Q a4 35. Rh7+ Kb6 36. Qb4+ Qb5 37. Rh6+ Ka7 38. Qxb5 Ka8 39. Rh8+ Ka7 40. Rxa4# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "66"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 Nc6 4. Nc3 Nf6 5. Be3 d5 6. Nxd5 Nxe4 7. Nc3 Nxc3 8. Qd2 Nd5 9. h4 Nxe3 10. fxe3 e5 11. Nxe5 Nxe5 12. Qc3 Nc6 13. Bc4 O-O 14. Qb3 Qd6 15. Rf1 Bf6 16. O-O-O Bg4 17. Rxf6 Qxf6 18. e4 Bxd1 19. Qxb7 Bg4 20. Qxa8 Rxa8 21. e5 Qxh4 22. Bxf7+ Kxf7 23. Kd2 Qf2+ 24. Kd3 Qxd4# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "65"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d5 5. Bd3 dxe4 6. Bxe4 Nd7 7. O-O Ngf6 8. Bd3 O-O 9. Bg5 c5 10. Be3 cxd4 11. Bxd4 Nb8 12. Bxf6 exf6 13. Ne4 Qb6 14. Rb1 f5 15. Nc3 Rd8 16. Na4 Qa5 17. Nc3 h6 18. b4 Qa3 19. Rb3 Qxb3 20. axb3 Bxc3 21. b5 a6 22. Qc1 Bf6 23. bxa6 Nxa6 24. Bxa6 h5 25. Bc4 Be6 26. Bxe6 fxe6 27. Qe3 e5 28. Nxe5 Rd2 29. Qxd2 Ra2 30. Qd5+ Kg7 31. Qf7+ Kh8 32. Nxg6# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "67"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 f5 2. g3 Nf6 3. Nc3 d5 4. Nf3 e6 5. Bg2 Nc6 6. O-O Ne4 7. e3 Bd6 8. Nb5 Be7 9. Ne5 Bd7 10. Nxd7 Kxd7 11. Qd3 a6 12. Nc3 Nd6 13. Bd2 Nb4 14. Qe2 h5 15. Rac1 Nc6 16. Bf3 h4 17. gxh4 Rxh4 18. Rce1 Qg8 19. Qd3 Qh7 20. h3 Rxh3 21. Bg2 Rh8 22. Bxh3 g5 23. Nxd5 Qxh3 24. Nb6+ cxb6 25. d5 Qh1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "68"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 f5 2. g3 Nf6 3. Nc3 d5 4. Nf3 Nc6 5. Ne5 Be6 6. Nxc6 bxc6 7. Na4 Ne4 8. b3 Qd6 9. f3 Qb4+ 10. c3 Nxc3 11. Bd2 Nxd1 12. Bxb4 Ne3 13. Kd2 Nxf1+ 14. Raxf1 a5 15. Bc5 Kf7 16. f4 Rd8 17. Rf3 Re8 18. h4 Rd8 19. Rc3 Re8 20. Rhc1 Rd8 21. Re3 Re8 22. Ba7 Bd7 23. Nc5 Bc8 24. Nd3 Bb7 25. h5 Ra8 26. Bc5 Rd8 27. Ne5+ Kf6 28. Rg1 e6 29. g4 Bxc5 30. dxc5 fxg4 31. Nxg4+ Kf5 32. Reg3 Kxf4 33. a3 Rd7 34. e3+ Ke4 35. Nf2+ Ke5 36. Nd3+ Kf5 37. Rf1+ Ke4 38. Rg4# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "69"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. d4 Be7 5. Be3 d5 6. exd5 cxd4 7. Bxd4 e5 8. Be3 Na5 9. Bb5+ Nc6 10. Nxe5 a6 11. Nxc6 Qc7 12. Nxe7+ Kxe7 13. Bd3 Nf6 14. O-O Rd8 15. Qf3 Ng4 16. Bf4 Rd6 17. Qe4+ Kd7 18. Bxd6 Kxd6 19. Qxh7 Bd7 20. Qxg7 Kc5 21. Ne4+ Kxd5 22. Qxf7+ Be6 23. Qxc7 Nxf2 24. Qc5# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "70"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 d6 5. h3 Nf6 6. O-O Be7 7. d3 O-O 8. Bd2 Qb6 9. Rb1 Be6 10. Re1 Bxc4 11. Na4 Qa6 12. b4 Bxa2 13. b5 Qxa4 14. Rb2 Nd4 15. Bh6 gxh6 16. Qa1 Nxe4 17. Rxa2 Qxb5 18. dxe4 Nxf3+ 19. Kh1 Nxe1 20. Kg1 Qc4 21. Qc1 Qxa2 22. Qd2 Nxc2 23. Qxh6 Qc4 24. h4 Qd4 25. g4 Qxe4 26. g5 d5 27. f4 Qd4+ 28. Kh2 Qf2+ 29. Kh3 Qxf4 30. Qh5 Ne3 31. g6 Qf1+ 32. Kh2 Qg2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "72"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 Nc6 4. Nc3 Bf5 5. Nf3 e6 6. Ne5 Bd6 7. g4 Bxe5 8. gxf5 Bxf4 9. Nxd5 Qxd5 10. Qe2 Qxh1 11. d5 Qxd5 12. fxe6 Bxh2 13. Qb5 Qxe6 14. Qxb7 Rb8 15. Qxc6+ Qxc6 16. Rb1 Qxc2 17. Bb5+ Rxb5 18. b3 Qxb1+ 19. Kd2 Qxa2+ 20. Ke1 Rg5 21. f4 Rg1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "71"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nc3 e6 4. Nf3 Nh5 5. Bg5 Qd6 6. e4 Qb6 7. exd5 h6 8. Bb5+ c6 9. dxc6 bxc6 10. Bxh6 Nd7 11. Bxg7 Bxg7 12. Bc4 Qb4 13. Bb3 Ba6 14. a3 Qa5 15. Qd2 Bh6 16. Qd1 Nf4 17. Rg1 c5 18. d5 exd5 19. Bxd5 O-O-O 20. Be4 f5 21. Bd3 Nxd3+ 22. cxd3 Rhe8+ 23. Kf1 Nb6 24. Ne1 Nd5 25. Qc2 Kb8 26. Nxd5 Rxd5 27. Qb3+ Bb7 28. Nf3 Rdd8 29. Rh1 Qb6 30. Qxb6 axb6 31. Rd1 c4 32. Nh4 Bg7 33. Nxf5 Bxb2 34. Rb1 Bh8 35. dxc4 Rd2 36. Kg1 Ree2 37. Rf1 Be5 38. Ng3 Bxg3 39. hxg3 Ka7 40. Rh7 Ka6 41. Rg7 Re6 42. g4 Re4 43. Rc1 Ra2 44. f3 Rd4 45. Rc3 Rdd2 46. f4 Bxg2 47. f5 Bc6 48. Rc1 Be4 49. f6 Rg2+ 50. Kf1 Bd3+ 51. Ke1 Rg1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "73"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. Nf3 Bg4 5. h3 Bd7 6. Bd3 g6 7. O-O a5 8. Be3 Bc8 9. e5 dxe5 10. dxe5 Nfd7 11. Ne4 Nb6 12. Nd4 Nd5 13. Qf3 Qc7 14. Bf4 Nd7 15. Ng5 Nc5 16. Bg3 e6 17. Bc4 Bh6 18. Ne4 Nxe4 19. Qxe4 Qb6 20. Bb3 c5 21. Nf3 O-O 22. Bxd5 exd5 23. Qxd5 a4 24. Qd6 Qxb2 25. Qxc5 a3 26. Rfb1 Be6 27. Rxb2 Rfc8 28. Qb5 Rc3 29. Qxb7 Kg7 30. Rb4 Ra5 31. Nd4 Bc4 32. Qc7 Bf4 33. Bxf4 Ra4 34. Rxa4 Bd5 35. Qxc3 Kg8 36. Rxa3 Ba8 37. Rxa8+ Kg7 38. Ne6+ fxe6 39. Qc7# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "74"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 Nc6 4. Ne2 e5 5. d5 Nb4 6. b3 Nxd3+ 7. cxd3 Be7 8. O-O O-O 9. Na3 c6 10. dxc6 bxc6 11. Bb2 d5 12. Qc2 Bg4 13. Rae1 Qd6 14. Nb1 dxe4 15. Nc1 exd3 16. Qxd3 Qxd3 17. Nxd3 e4 18. Ne5 Bd6 19. h3 Bxe5 20. Nc3 Bf5 21. a4 Rab8 22. f4 Bd4+ 23. Re3 Bxe3+ 24. Kh1 Rxb3 25. Ba1 Nd5 26. Re1 Bd2 27. g4 Bxe1 28. Nxd5 Rxh3+ 29. Kg2 Rg3+ 30. Kf1 cxd5 31. Bf6 Rxg4 32. Bd4 Bd2 33. Ke2 Bxf4 34. Bxg7 Kxg7 35. Kf1 Kf6 36. Kf2 Ke5 37. Ke1 Rg2 38. Kd1 Rc8 39. Ke1 Rc1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "75"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1/2-1/2"]
+[TimeControl "20+0.2"]
+[Termination "threefold_repetition"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 g6 4. d4 Bg7 5. dxc5 O-O 6. e4 Qa5 7. e5 Ne8 8. Be3 Na6 9. Qd4 d6 10. cxd6 f6 11. dxe7 fxe5 12. Qd5+ Be6 13. exf8=Q+ Bxf8 14. Qxa5 Bf7 15. Nxe5 Nb4 16. Nxf7 h5 17. Nh6+ Kh8 18. Nf7+ Kg8 19. Nh6+ Kh8 20. Qe5+ Ng7 21. Qe4 Kh7 22. Qxb7 Re8 23. Ke2 Bc5 24. Nf7 Nc2 25. Ng5+ Kh8 26. Nf7+ Kh7 27. Ne4 Nf5 28. Nf6+ Kg7 29. Nxe8+ Kg8 30. Nf6+ Kg7 31. Ne8+ Kh7 32. Nf6+ Kg7 1/2-1/2
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "77"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Bc5 4. Nf3 Ng4 5. d4 d5 6. Bb5+ Bd7 7. Bxd7+ Nxd7 8. dxc5 Nxf2 9. Kxf2 Nxc5 10. Qxd5 Nd7 11. Nxe5 Qh4+ 12. g3 Qe7 13. Nxd7 c6 14. Qe5 Kxd7 15. Rd1+ Ke8 16. Qxg7 Qe6 17. Qxh8+ Ke7 18. Qxa8 Qh3 19. Qd8+ Ke6 20. Qd6# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "76"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 c5 2. Nf3 Nf6 3. d3 Nc6 4. g3 e5 5. Bh3 d5 6. Bg2 e4 7. Nfd2 exd3 8. O-O Bg4 9. Nf3 dxc4 10. h3 dxe2 11. Qxe2+ Be6 12. Re1 Qd3 13. Ng5 Qxe2 14. Bxc6+ bxc6 15. Rxe2 O-O-O 16. Nc3 Kd7 17. Bf4 Bd6 18. Nxe6 fxe6 19. Bxd6 Kxd6 20. b3 cxb3 21. Na4 bxa2 22. Rc2 e5 23. Kg2 Ne4 24. Rac1 c4 25. f3 a1=Q 26. Rxa1 Nf6 27. h4 c5 28. Rxc4 Rc8 29. Rd1+ Ke6 30. Rxc5 Rhd8 31. Rxd8 Rxd8 32. Ra5 Rd2+ 33. Kf1 Rd1+ 34. Kf2 Rd2+ 35. Kg1 Rd1+ 36. Kg2 Rd2+ 37. Kg1 Kf5 38. Kf1 Rd1+ 39. Kf2 Rd2+ 40. Kg1 Rd1+ 41. Kg2 Rd2+ 42. Kh3 Rd7 43. Kh2 Rd2+ 44. Kg1 Rd1+ 45. Kf2 Rd7 46. Kf1 Nd5 47. Kg1 h6 48. Nc5 Rc7 49. g4+ Kf6 50. h5 Ke7 51. Kf2 Kd6 52. Nb3 Rc2+ 53. Kg1 Rb2 54. Ra6+ Nb6 55. Na1 Rb1+ 56. Kg2 Ke6 57. Kf2 Kd6 58. Rxa7 Rb2+ 59. Kg1 Nd5 60. Ra5 Ne3 61. Ra4 Rg2+ 62. Kh1 Rf2 63. Ra3 Rxf3 64. Ra6+ Kd5 65. Ra5+ Kd6 66. Ra3 Rf1+ 67. Kh2 Nxg4+ 68. Kg2 Rf2+ 69. Kg1 Rf5 70. Ra6+ Kd5 71. Nb3 Rxh5 72. Ra5+ Kd6 73. Nc5 Rh2 74. Nb7+ Kc6 75. Ra7 Kd5 76. Ra4 e4 77. Ra5+ Kd4 78. Ra3 Kd5 79. Nd8 Rf2 80. Ra5+ Kc4 81. Ne6 Rf7 82. Ra1 Kd5 83. Nd8 Re7 84. Rd1+ Kc5 85. Ra1 e3 86. Rc1+ Kd5 87. Nf7 Rxf7 88. Rb1 e2 89. Rb5+ Kc4 90. Rb4+ Kxb4 91. Kh1 Rf2 92. Kg1 e1=Q# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "78"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 d5 4. exd5 Nxd5 5. Bb3 Bb4+ 6. c3 Bc5 7. h3 Nc6 8. Nf3 Nf4 9. Bxf4 exf4 10. Qc2 Bf5 11. Qe2+ Be7 12. Bc2 O-O 13. Qd2 Qd6 14. O-O Bf6 15. Kh1 Rad8 16. Kg1 Rfe8 17. Re1 Rxe1+ 18. Nxe1 g5 19. Qd1 Ne5 20. d4 Qe6 21. Na3 a6 22. Nf3 Nxf3+ 23. Qxf3 Rb8 24. Bb3 Qe4 25. Bd5 Qxf3 26. Bxf7+ Kxf7 27. h4 Qe2 28. h5 Qxb2 29. Rb1 Bxb1 30. Kh1 Qxa3 31. h6 Qxc3 32. a3 Bxd4 33. f3 Qe1+ 34. Kh2 Qh4# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "79"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. Nc3 h6 5. Bxf6 Qxf6 6. e4 Bb4 7. e5 Qd8 8. a3 Bxc3+ 9. bxc3 c5 10. dxc5 Qa5 11. Qd4 O-O 12. Qb4 Qd8 13. Bb5 a6 14. Ba4 Qc7 15. Qb6 Qxb6 16. cxb6 Bd7 17. Bb3 Be8 18. c4 Bc6 19. cxd5 exd5 20. Nd4 Re8 21. f4 a5 22. Nxc6 bxc6 23. Ke2 a4 24. Ba2 Ra6 25. b7 Rf8 26. c4 d4 27. Kd3 c5 28. f5 Nd7 29. Rhe1 Rb6 30. e6 Nb8 31. e7 Re8 32. Rab1 Rd6 33. h3 Nc6 34. b8=Q Nxb8 35. Rxb8 Kh7 36. Rxe8 g6 37. Rf8 Kg7 38. e8=Q h5 39. Rxf7+ Kh6 40. Qf8+ Kg5 41. Qe7+ Kh6 42. Rh7# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "80"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bc1 Nc6 5. Bd2 d5 6. Bc3 Ne4 7. e3 Bd6 8. a4 O-O 9. Be2 Bd7 10. O-O Qf6 11. Nbd2 Nxc3 12. bxc3 e5 13. a5 e4 14. c4 exf3 15. Bd3 fxg2 16. Re1 Qg5 17. Rb1 Nxa5 18. c5 Bg4 19. Nf3 Bxf3 20. Ra1 Bxd1 21. Rexd1 Bxc5 22. Rdb1 Bb6 23. c3 Nc4 24. Rb4 Nxe3 25. Rb3 Nc4 26. f4 Qg4 27. f5 Bxd4+ 28. cxd4 Qxd4+ 29. Kxg2 Qxa1 30. Kf2 Qa2+ 31. Kg1 Qxb3 32. Bb1 Qxb1+ 33. Kg2 Qxf5 34. Kg3 Rad8 35. h3 Rfe8 36. Kg2 d4 37. Kg3 Re3+ 38. Kg2 Rxh3 39. Kg1 Rg3+ 40. Kh1 Qh5# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "81"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1/2-1/2"]
+[TimeControl "20+0.2"]
+[Termination "threefold_repetition"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 a6 4. d4 exd4 5. Nxd4 Nf6 6. Bc4 Bb4 7. Bg5 Bxc3+ 8. bxc3 h6 9. Nxc6 bxc6 10. Bxf6 Qxf6 11. Qd4 a5 12. Qxf6 gxf6 13. Ke2 Rg8 14. Rag1 d6 15. Bd3 Bg4+ 16. Ke3 Rg5 17. h3 Bc8 18. h4 Rg8 19. c4 Be6 20. h5 Kd8 21. Kf3 Rb8 22. Ke3 Rb2 23. a3 Rg5 24. f4 Rg8 25. f5 Bc8 26. Kf3 c5 27. Rb1 Ra2 28. Ra1 Rxa1 29. Rxa1 Kd7 30. Rb1 Rg5 31. Rb5 Ba6 32. Rxa5 Bb7 33. g4 Kc8 34. Rb5 Rg8 35. Kf4 Re8 36. Rb1 Ba8 37. Rd1 Bb7 38. Rb1 Re7 39. Ke3 Re8 1/2-1/2
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "82"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. a3 Nf6 4. Nc3 d5 5. Bb5 Bg4 6. Nxd5 Nxd5 7. h3 Bxf3 8. c4 Bxd1 9. cxd5 a6 10. d4 axb5 11. dxc6 Qxd4 12. Be3 Bb4+ 13. axb4 Qxb4+ 14. Kf1 Rxa1 15. Bh6 Bf3+ 16. Bc1 Rxc1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "83"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Nc6 7. Nxc6 bxc6 8. Bd3 Ng4 9. Bg5 a5 10. O-O Qc7 11. Be2 h6 12. Bh4 h5 13. h3 g5 14. Bxg5 Ne5 15. Bxh5 Rb8 16. Rb1 Qd7 17. Bf3 f6 18. Bh5+ Kd8 19. Bf4 Rb4 20. a3 Rc4 21. Be2 Rh4 22. Bxe5 Rxh3 23. Bxc4 Rh8 24. Bd4 Bb7 25. Bb6+ Kc8 26. Qf3 Rh1+ 27. Kxh1 f5 28. Bxa5 e5 29. Qxf5 Be7 30. Be6 Kb8 31. Bxd7 Bc8 32. Bxc8 d5 33. Be6 dxe4 34. Qxe5+ Ka8 35. Bd7 Bf6 36. Qc7 Bd4 37. Bxc6# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "84"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c5 2. Nf3 d6 3. d4 Nc6 4. Nc3 Nf6 5. dxc5 dxc5 6. Bg5 Qb6 7. Bb5 Nxe4 8. Nd5 Qa5+ 9. Nd2 Nxg5 10. Bxc6+ bxc6 11. Ne3 Be6 12. Qe2 Bxa2 13. Qd3 Rd8 14. Qe2 e5 15. b3 Bd6 16. Kf1 O-O 17. Kg1 Ne6 18. Ndc4 Nd4 19. Qf1 Qa6 20. Qd1 Bc7 21. Qd3 Nf3+ 22. Kf1 Rxd3 23. gxf3 Rdd8 24. Ke1 Rfe8 25. Rg1 h6 26. Rg4 h5 27. Rg3 e4 28. fxe4 Bxg3 29. hxg3 Rxe4 30. Na3 Qxa3 31. Kf1 c4 32. Nf5 Qb2 33. b4 Qxa1+ 34. Kg2 Qc3 35. Kg1 Re1+ 36. Kh2 Qxc2 37. Ne3 Rxe3 38. Kg2 Rd2 39. Kh3 Qf5+ 40. Kh4 Qg4# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "85"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e6 2. d4 d5 3. exd5 Qxd5 4. Nc3 Qd8 5. Nf3 Be7 6. Bc4 a6 7. O-O b5 8. Bd3 Bb7 9. a4 bxa4 10. Be3 Bb4 11. Rxa4 Bxc3 12. bxc3 Nf6 13. Rb4 Bxf3 14. Qxf3 Nd5 15. Rb7 Qc8 16. Rb3 c5 17. dxc5 Nd7 18. Bd4 Nxc5 19. Bxg7 Rg8 20. Be5 f6 21. Bxh7 Rg5 22. Bxf6 Qd7 23. Rb2 Qxh7 24. Bxg5 Ne4 25. Be3 Qf5 26. Qxf5 exf5 27. c4 Ndc3 28. Rb7 O-O-O 29. Re7 Nd2 30. Bxd2 Na2 31. Ba5 Rd6 32. Ra1 Rd8 33. Rxa2 Rd1+ 34. Re1 Rxe1+ 35. Bxe1 a5 36. Rxa5 Kb7 37. Rxf5 Kb6 38. Ba5+ Ka6 39. Rb5 Ka7 40. Kf1 Ka8 41. Ke2 Ka7 42. Ke3 Ka6 43. Bc3 Ka7 44. c5 Ka6 45. c6 Kxb5 46. c7 Kc4 47. c8=Q+ Kd5 48. Qc7 Ke6 49. Qd8 Kf5 50. Qf6+ Kg4 51. Qg6+ Kh4 52. Bf6# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "86"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 e6 2. d4 d5 3. Bd3 Nf6 4. Nd2 dxe4 5. Bb5+ c6 6. Bf1 Qxd4 7. f3 e3 8. Nb3 Qh4+ 9. g3 Qg5 10. f4 Qd5 11. Qxd5 Nxd5 12. Bg2 Bb4+ 13. Kd1 Nd7 14. c4 N5b6 15. a3 Bd6 16. Na5 Bc5 17. Ne2 O-O 18. b4 Bd6 19. c5 Nxc5 20. bxc5 Bxc5 21. h3 Rd8+ 22. Kc2 Nd5 23. Rb1 Bb6 24. Nb3 Bd7 25. Re1 Rab8 26. Nc3 Nxc3 27. Kxc3 e2 28. g4 Re8 29. Kd2 c5 30. Ke3 c4+ 31. Nd4 e5 32. Rxb6 exd4+ 33. Kxd4 axb6 34. Bf3 Rbd8 35. Kc3 Bc6 36. Bxc6 bxc6 37. Kc2 Rd3 38. a4 Rxh3 39. Bb2 Rh4 40. Be5 f6 41. Rxe2 Rxg4 42. Re3 fxe5 43. Rxe5 Ra8 44. Re4 Rxa4 45. Kb1 Kf7 46. Kc1 g5 47. fxg5 Rxe4 48. g6+ Kxg6 49. Kb2 Kf5 50. Kb1 Re2 51. Kc1 Ra1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "87"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Qe2+ Qe7 7. Qxe7+ Bxe7 8. Nf3 Be6 9. Be3 a5 10. Bd3 g6 11. O-O h5 12. Nd2 h4 13. Ne4 Nd7 14. Rfe1 O-O 15. Bf4 a4 16. Be3 b5 17. Bh6 Rfb8 18. Bf4 Rf8 19. Be3 Rfd8 20. Bf4 Kg7 21. Be3 f5 22. Nc3 Nf6 23. Rad1 a3 24. bxa3 Nd5 25. Nxd5 Bxd5 26. Bh6+ Kxh6 27. Rxe7 Rxa3 28. Ra1 Ra4 29. g4 Rxd4 30. gxf5 g5 31. f6 Ra4 32. a3 Rd6 33. Re5 Rg4+ 34. Kf1 Rxf6 35. Ke2 Bg2 36. Re7 Rff4 37. Re1 h3 38. Ke3 Rf6 39. Be2 Rh4 40. Bd3 Rff4 41. Rd7 Rf6 42. Rd1 Rhf4 43. Re7 Rxf2 44. Re8 Kg7 45. Re7 Bd5 46. Bxb5 Rg2 47. c4 Rf3+ 48. Kd4 Rf5 49. Rh1 Rf4+ 50. Kd3 Rf3+ 51. Re3 Rf5 52. cxd5 Ra2 53. Bxc6 Rf4 54. a4 g4 55. d6 g3 56. Rxg3+ Kh6 57. Rxh3+ Kg7 58. d7 Ra3+ 59. Ke2 Rf1 60. d8=Q Rf2+ 61. Kxf2 Ra2+ 62. Kf3 Rb2 63. Rg1+ Rg2 64. Rxg2# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "88"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 c6 2. d4 d5 3. Nd2 Nf6 4. f3 dxe4 5. Nc4 Nbd7 6. fxe4 Nxe4 7. Nf3 e6 8. Bd3 Bb4+ 9. Ncd2 Ndf6 10. c3 Nxd2 11. Ne5 Nde4 12. Qe2 Nxc3 13. Qf3 Nxa2+ 14. Kd1 Nxc1 15. Rxc1 Qxd4 16. Re1 Bxe1 17. Nxc6 Qxb2 18. Qf4 bxc6 19. Rc5 Qb6 20. Qd6 Bb4 21. Bb5 Bd7 22. h3 Bxc5 23. Qxc5 Qxc5 24. Bxc6 Qxc6 25. Kd2 Qxg2+ 26. Ke3 Nd5+ 27. Kd4 Qd2+ 28. Kc4 Qc3# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "89"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 e6 3. cxd5 Nf6 4. dxe6 Bb4+ 5. Nc3 Qe7 6. exf7+ Kd8 7. Qb3 a5 8. Nf3 Nc6 9. e3 a4 10. Qc4 Rf8 11. d5 Ne4 12. dxc6 a3 13. Qd4+ Bd6 14. Nxe4 Qxf7 15. Nxd6 Qxf3 16. Nxb7+ Ke7 17. Qe5+ Be6 18. Qxc7+ Kf6 19. gxf3 Bd7 20. cxd7 Ra7 21. Qd6+ Kg5 22. Qxf8 h6 23. Qxg7+ Kh4 24. Qxh6# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "90"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 e6 3. c5 Nc6 4. e3 Nf6 5. f4 Be7 6. Bd3 O-O 7. Nc3 b6 8. cxb6 axb6 9. a3 Nb4 10. Bb1 Bb7 11. Bd2 Bd6 12. Nh3 Qd7 13. Ng5 Rfe8 14. Ne2 Nc6 15. Bd3 h6 16. Nh3 Ne4 17. Bb5 Nxd2 18. Qxd2 Ra5 19. Qd3 Nb4 20. Kd2 Rxb5 21. Qb1 Nc6 22. Ng5 hxg5 23. b4 gxf4 24. Nxf4 Nxd4 25. Nd3 Nf5 26. g4 Ne7 27. Qg1 e5 28. Rf1 d4 29. Kd1 Bxh1 30. Rxf7 Kxf7 31. Qxh1 Qxg4+ 32. Kc1 Qe2 33. Ne1 Qxe3+ 34. Kb2 Qc3+ 35. Ka2 Qc4+ 36. Ka1 Qc3+ 37. Kb1 Qb3+ 38. Kc1 Qxa3+ 39. Kc2 Qc3+ 40. Kd1 Qb3+ 41. Kc1 Qe3+ 42. Kd1 Qb3+ 43. Nc2 Qb1+ 44. Kd2 Qxh1 45. h3 Qxh3 46. Kc1 d3 47. Kd2 dxc2 48. Kc1 Qd3 49. Kb2 Qd2 50. Ka1 c1=Q# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "91"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 b6 4. d5 Bg7 5. Nc3 d6 6. e4 Nbd7 7. Bd3 O-O 8. O-O e6 9. dxe6 Ne5 10. exf7+ Rxf7 11. Nxe5 Nd5 12. Nxf7 Nf4 13. Nxd8 Nxg2 14. Kxg2 Bd7 15. Bg5 Bh6 16. Bxh6 Bc8 17. Qa4 Bg4 18. Qe8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "92"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 Nf6 2. c4 g6 3. e3 Nc6 4. Qc2 Nb4 5. Qb3 e6 6. Bd2 Nc6 7. h4 d5 8. h5 gxh5 9. Nf3 Bg7 10. Qc2 O-O 11. a3 dxc4 12. Nc3 Na5 13. Rd1 Bd7 14. Ne4 Nxe4 15. Qxe4 Bc6 16. Qf4 Bxf3 17. gxf3 Qd5 18. e4 Qb5 19. e5 Nc6 20. Rg1 Qxb2 21. Qh6 Rab8 22. Qxg7# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "94"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nc6 5. e3 Nf6 6. Nc3 Qb6 7. Rc1 Qxb2 8. Bb5 a6 9. Nge2 axb5 10. g3 Be6 11. Rc2 Qb4 12. h3 O-O-O 13. a3 Qxa3 14. Ra2 Qb4 15. Qa1 Ne4 16. Ra8+ Kd7 17. O-O Rxa8 18. Qxa8 Nxc3 19. Nc1 Nd8 20. Nd3 Ne2+ 21. Kh2 Qc3 22. Rc1 Nxc1 23. Nc5+ Kc6 24. Qxd8 b4 25. Bb8 Kb5 26. Kg2 Nd3 27. Bd6 Ne1+ 28. Kg1 Nf3+ 29. Kg2 Ne1+ 30. Kg1 exd6 31. Ne4 Nf3+ 32. Kg2 dxe4 33. Qa8 Qc6 34. Qa7 d5 35. Qa2 Bd6 36. Kh1 Bxh3 37. g4 Qc1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "93"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1/2-1/2"]
+[TimeControl "20+0.2"]
+[Termination "threefold_repetition"]
+
+1. d4 d5 2. c4 c6 3. Nd2 Nd7 4. Ngf3 g6 5. e4 a6 6. cxd5 cxd5 7. Qb3 e6 8. exd5 exd5 9. Qxd5 Ngf6 10. Qc4 Be7 11. Bd3 Nb6 12. Qc2 Be6 13. O-O O-O 14. Ne4 Re8 15. Be3 Nbd5 16. Nxf6+ Bxf6 17. Bd2 Ne7 18. Bc3 Nd5 19. Bc4 Rc8 20. Qb3 Nxc3 21. Bxe6 Ne2+ 22. Kh1 fxe6 23. Rad1 Rc7 24. Qe3 Rc2 25. Rfe1 Nxd4 26. Nxd4 Bxd4 27. Rxd4 Qb6 28. Kg1 Rf8 29. Qxe6+ Qxe6 30. Rdd1 Qxa2 31. Rd7 a5 32. Rxb7 Rcxf2 33. h3 Qxb2 34. Rxb2 Rxb2 35. Rf1 Rxf1+ 36. Kxf1 g5 37. Kg1 Rb1+ 38. Kf2 Rb2+ 39. Kf3 a4 40. Kg3 Rb1 41. Kg4 Rb2 42. Kxg5 Kf7 43. g3 Ke8 44. Kf4 a3 45. Kg5 Kf7 46. Kh6 Re2 47. g4 Kf8 48. Kxh7 Rg2 49. Kg6 Rxg4+ 50. hxg4 Kg8 51. Kf5 Kf8 52. g5 Ke7 53. g6 Kf8 54. Kf6 a2 55. Kf5 Kg8 56. Kg4 Kg7 57. Kf3 Kxg6 58. Kf4 Kh6 59. Kf5 Kh7 60. Ke5 Kg8 61. Ke6 Kf8 62. Kd6 Kg8 63. Kd5 Kh7 64. Ke5 Kg6 65. Kd4 Kh5 66. Kc3 a1=Q+ 67. Kd3 Qa4 68. Kd2 Qd7+ 69. Ke3 Qd8 70. Ke4 Kg5 71. Ke5 Kh5 72. Kf4 Qb8+ 73. Kf5 Kh6 74. Ke4 Qh2 75. Ke3 Qd6 76. Kf3 Qd8 77. Ke4 Qb8 78. Kd4 Qc7 79. Ke4 Qd6 80. Kf5 Qd8 81. Ke5 Qb8+ 82. Kd5 Qh8 83. Ke4 Qc8 84. Ke3 Qb8 85. Kd4 Qc7 86. Ke4 Qb7+ 87. Ke5 Qd7 88. Kf4 Qd8 89. Kf3 Kh7 90. Ke3 Qf8 91. Kd4 Kh6 92. Kd5 Qf4 93. Kc5 Qf8+ 94. Kd4 Kg6 95. Ke5 Kh7 96. Ke4 Kg6 97. Kd4 Kg7 98. Ke5 Kf7 99. Kf4 Kg7+ 100. Ke5 Kg6 101. Kd5 Qh6 102. Ke4 Qf8 103. Ke5 Qc8 104. Kd5 Qc7 105. Kd4 1/2-1/2
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "95"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 e4 4. Ng5 Be7 5. Ngxe4 O-O 6. d4 d6 7. Nxf6+ gxf6 8. Bh6 Re8 9. e4 c5 10. dxc5 d5 11. Qxd5 Nc6 12. Qxd8 Bg4 13. Qc7 Ne5 14. Nd5 Bd8 15. Qxb7 f5 16. Qxa8 Ba5+ 17. b4 Bxb4+ 18. Nxb4 Nd3+ 19. Bxd3 Rxa8 20. exf5 Bf3 21. gxf3 Rd8 22. Be3 h6 23. Bxh6 a5 24. Nd5 Rxd5 25. cxd5 Kh8 26. c6 Kh7 27. Bf4 Kg7 28. c7 Kf6 29. c8=Q Ke7 30. d6+ Kf6 31. Qc3# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "96"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. c4 e5 2. Nc3 Nf6 3. e3 Nc6 4. a3 d5 5. Nf3 Bg4 6. cxd5 Nxd5 7. Qa4 Bxf3 8. Bc4 Bxg2 9. Bxd5 Bxd5 10. Nxd5 Qxd5 11. e4 Qd3 12. f3 Qxf3 13. Rg1 f5 14. d3 Qxd3 15. Rxg7 Bxg7 16. Bg5 Qxe4+ 17. Qxe4 fxe4 18. Bd2 Ke7 19. Be3 Ke6 20. h4 Bf6 21. O-O-O Bxh4 22. Rh1 Bf6 23. Rh6 Nd4 24. b4 Nf5 25. Rxf6+ Kxf6 26. Bf2 e3 27. Bxe3 Nxe3 28. Kb1 e4 29. a4 Nd5 30. Kb2 Nxb4 31. Ka3 e3 32. Kxb4 e2 33. Kc3 e1=Q+ 34. Kb2 Qb4+ 35. Kc1 Rad8 36. a5 Qc3+ 37. Kb1 Rd2 38. a6 Qb2# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "97"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. Nf3 d5 2. g3 Nf6 3. d4 a5 4. Nc3 c6 5. Qd3 a4 6. e4 a3 7. bxa3 Qa5 8. e5 Ne4 9. Bb2 Bg4 10. h3 Be6 11. Rb1 g6 12. Bg2 h5 13. O-O Bh6 14. Nxe4 dxe4 15. Qxe4 Na6 16. Ra1 Qb5 17. Bc3 Bd5 18. Qd3 Nc7 19. Qxb5 cxb5 20. Bb2 Ra4 21. Rfe1 Bc6 22. g4 Rc4 23. gxh5 Nd5 24. hxg6 e6 25. gxf7+ Kf8 26. Bc1 Kxf7 27. Bxh6 Rxh6 28. Rac1 Rh8 29. Ng5+ Kg6 30. Nxe6 Kf5 31. Ng7+ Kf4 32. Ne6+ Kf5 33. Ng7+ Kg6 34. Bf1 Nf4 35. Bxc4 Bf3 36. Re3 Nxh3+ 37. Kf1 Ng5 38. Bd3+ Kf7 39. Rxf3+ Kg8 40. Rf5 Rh1+ 41. Ke2 Rh2 42. Rxg5 Rg2 43. Rxg2 Kh8 44. Ne6 b4 45. Rh1# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "98"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. Nf3 d5 2. g3 Nf6 3. d4 Nc6 4. Be3 Ng4 5. Bc1 e5 6. h3 Bb4+ 7. c3 Bd6 8. hxg4 exd4 9. Nxd4 Bxg4 10. Na3 O-O 11. Nac2 Ne5 12. Bh3 Bxh3 13. Rxh3 Qd7 14. Rh4 c5 15. Ne3 Ng6 16. Nf3 Nxh4 17. gxh4 Rad8 18. Qxd5 Rfe8 19. Qf5 Qc7 20. h5 c4 21. a4 a6 22. a5 Qc6 23. Bd2 h6 24. Qh3 Qc7 25. Qf5 Qc6 26. O-O-O Bc5 27. Ne5 Qc7 28. N5xc4 Bxe3 29. Bxe3 Rxd1+ 30. Kxd1 Qxc4 31. Kd2 Rd8+ 32. Kc2 Rd5 33. Qd3 Rxd3 34. Bc5 Rd5 35. Be7 Qxe2+ 36. Kb3 Qxe7 37. f4 Rxa5 38. Kc2 Qe4+ 39. Kd2 Rd5+ 40. Kc1 Qe1+ 41. Kc2 Qd1# 0-1
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "99"]
+[White "RoshanChess"]
+[Black "Stockfish 1320"]
+[Result "1-0"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd4 4. Nf3 Qf6 5. Ne4 Qb6 6. d4 e6 7. Bf4 Qxb2 8. Bxc7 Bb4+ 9. Ke2 Nc6 10. Nd6+ Bxd6 11. Bxd6 f5 12. Bf4 Nf6 13. Bd6 b6 14. Ke1 Nb4 15. Bb5+ Bd7 16. Bxd7+ Nxd7 17. Bxb4 Qxb4+ 18. Qd2 Qb5 19. Qe3 Qc4 20. Qd3 Qb4+ 21. Kf1 Rc8 22. Ne5 Rc3 23. Qd2 Qb5+ 24. Kg1 Qb2 25. Rc1 Nxe5 26. dxe5 h5 27. h3 Rc5 28. f4 Qc3 29. Qxc3 Ke7 30. Qb3 h4 31. Rd1 g5 32. Rd6 Rd5 33. Rxd5 gxf4 34. Rd4 Rc8 35. Rd6 f3 36. Qxe6+ Kf8 37. Qxc8+ Ke7 38. Qd7+ Kf8 39. Qxf5+ Kg8 40. Rd8+ Kg7 41. Qf6+ Kh7 42. Rh8# 1-0
+
+[Event "RoshanChess vs Stockfish 1320"]
+[Site "?"]
+[Date "2026.10.14"]
+[Round "100"]
+[White "Stockfish 1320"]
+[Black "RoshanChess"]
+[Result "0-1"]
+[TimeControl "20+0.2"]
+[Termination "checkmate"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Qg5 5. Bf3 Nc6 6. d4 Qa5 7. a3 Nf6 8. Ne2 Bg4 9. Bxc6+ bxc6 10. h3 Bf5 11. b4 Qb6 12. O-O e6 13. Ng3 Bg6 14. h4 Bd6 15. Na4 Qb5 16. c3 Qd3 17. h5 Qxd1 18. Rxd1 Bc2 19. Nc5 Bxd1 20. Bg5 Bg4 21. a4 Bxg3 22. h6 Bxf2+ 23. Kh1 O-O 24. Bf4 gxh6 25. Nd7 Nxd7 26. Bxh6 Rfe8 27. Rg1 Bxg1 28. b5 Bf2 29. bxc6 Nb8 30. g3 Bf3+ 31. Kh2 Nxc6 32. Kh3 Be1 33. a5 Bxc3 34. g4 Nxd4 35. a6 e5 36. Kg3 Be2 37. Kf2 Bxa6 38. g5 Bd2 39. Kg1 f6 40. gxf6 Bxh6 41. f7+ Kxf7 42. Kh2 Bd3 43. Kh3 Be3 44. Kg3 Ke6 45. Kh3 Rad8 46. Kh2 Rg8 47. Kh3 Be4 48. Kh2 Rg2+ 49. Kh3 Kd5 50. Kh4 Bf5 51. Kh5 Rh2# 0-1
+
