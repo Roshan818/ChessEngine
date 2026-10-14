@@ -135,6 +135,7 @@ class UCIEngine:
         elif command == "ucinewgame":
             self.waitForSearch()
             self.gs = ChessEngine.GameState()
+            self.searcher.table.clear()
         elif command == "position":
             self.waitForSearch()
             self.gs = parsePosition(args)
