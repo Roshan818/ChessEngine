@@ -14,7 +14,14 @@ and when idle it challenges other bots to rated games so it keeps building a rat
 3. Copy the token somewhere safe. Treat it like a password: never commit it or paste it
    into chats or issues.
 
-## 2. Set it up on the machine that will run it
+## 2a. Easiest: an Oracle Cloud "Always Free" server (no terminal needed)
+
+When creating the server, paste [`cloud-init.sh`](cloud-init.sh) into the
+**Initialization script** box, with the token filled in. On first boot the server installs
+everything, upgrades the account to a bot and starts it. It restarts by itself after reboots.
+Setup progress is logged on the server in `/var/log/roshanchess-setup.log`.
+
+## 2b. Any other Linux machine
 
 Any always-on Linux machine works (a small cloud server, a Raspberry Pi, or WSL on Windows).
 It needs Python 3.10+ and git.
