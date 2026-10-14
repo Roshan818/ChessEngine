@@ -49,9 +49,14 @@ connected to Lichess as a bot. To play under a clock, the search now uses **iter
 deepening**: it searches 1 move deep, then 2, then 3, and so on, and when time runs out it plays
 the best move from the last completed depth.
 
+**Measuring it.** To get an honest rating, the engine played 100 games against Stockfish
+limited to a rating of 1320, across 20 common openings with both colours. It scored 18.5%,
+which puts it at about **1060** on Stockfish's scale (95% range 970 to 1130). Details and
+all the games are in [`results/`](results/).
+
 ## What's next
 
-1. **Measure it.** Play matches against Stockfish set to fixed ratings to get an honest rating.
+1. **Measure every change.** Each improvement is checked against Stockfish before it is kept.
 2. **Make it stronger.** Each change is measured before it is kept:
    keep searching captures past the depth limit (quiescence search), try the most promising
    moves first, remember positions already searched, and teach the evaluation about piece
@@ -74,6 +79,15 @@ Click a piece, then its destination. Press `z` to undo and `r` to restart.
 
 To use it in any UCI chess GUI (for example [Cute Chess](https://cutechess.com/) or
 [Arena](http://www.playwitharena.de/)), add an engine with the command `python Chess/uci.py`.
+
+## Measure it yourself
+
+```bash
+pip install chess
+python tools/match.py --stockfish /path/to/stockfish --elo 1320 --games 100
+```
+
+Or run it on GitHub: **Actions → match vs stockfish → Run workflow**.
 
 ## Tests
 
