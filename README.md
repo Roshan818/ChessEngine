@@ -88,6 +88,8 @@ python Chess/ChessMain.py --think 5      # give the engine 5 seconds per move
 
 Click a piece, then its destination. Press `z` to undo and `r` to restart.
 
+To run it as a Lichess bot, see [`deploy/lichess/`](deploy/lichess/).
+
 To use it in any UCI chess GUI (for example [Cute Chess](https://cutechess.com/) or
 [Arena](http://www.playwitharena.de/)), add an engine with the command `python Chess/uci.py`.
 
